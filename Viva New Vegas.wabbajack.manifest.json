@@ -1,0 +1,352 @@
+{
+  "$type": "Manifest, Wabbajack.Lib",
+  "Name": "VNV Utilities",
+  "Version": "1.0.0",
+  "Author": "Qolore & TDarkShadow",
+  "Description": "A small modlist to only get the utilities.",
+  "GameType": "FalloutNewVegas",
+  "GameName": "FalloutNewVegas",
+  "ModManager": 0,
+  "ModManagerName": "MO2",
+  "DownloadSize": 90415975,
+  "InstallSize": 286253385,
+  "IsNSFW": false,
+  "Archives": [
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "vKMKKroIyOM=",
+      "Meta": null,
+      "Name": "Mod.Organizer-2.4.0.7z",
+      "Size": 89306961,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z",
+        "Headers": [],
+        "PrimaryKeyString": "HTTPDownloader+State|https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "1xK4u7/R8/o=",
+      "Meta": null,
+      "Name": "nvse_6_0_6.7z",
+      "Size": 377122,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Url": "https://github.com/xNVSE/NVSE/releases/download/6.0.6/nvse_6_0_6.7z",
+        "Headers": [],
+        "PrimaryKeyString": "HTTPDownloader+State|https://github.com/xNVSE/NVSE/releases/download/6.0.6/nvse_6_0_6.7z"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "HanL451CwnA=",
+      "Meta": null,
+      "Name": "FNVModLimitFix-68714-2-5-1588442390.zip",
+      "Size": 81398,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "FNV Mod Limit Fix",
+        "Author": "iranrmrf",
+        "Version": "2.5.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/68714/68714-1587582723-491728536.png",
+        "IsNSFW": false,
+        "Description": "This plugin fixes the Fallout New Vegas mod limit bug. It allows a maximum of 255 plugins to be loaded. It can also cause an increase in fps, remove game stutter and allow for faster loading times especially when using a large number of mods.",
+        "GameName": "FalloutNewVegas",
+        "ModID": 68714,
+        "FileID": 1000061401,
+        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|68714|1000061401"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "1b8d+BMfr0Q=",
+      "Meta": null,
+      "Name": "JIP LN NVSE Plugin-58277-56-02-1613855478.7z",
+      "Size": 172048,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "JIP LN NVSE Plugin",
+        "Author": "jazzisparis and LuthienAnarion",
+        "Version": "f56.02",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/58277-1-1424895949.jpg",
+        "IsNSFW": false,
+        "Description": "This plugin is an extension of the New Vegas Script Extender (NVSE). It adds 900+ new functions, which can be used in GECK scripting and (in some cases) as conditions.\n\nAdditionally, this mod includes numerous engine bug fixes/tweaks, and restores several broken game features.",
+        "GameName": "FalloutNewVegas",
+        "ModID": 58277,
+        "FileID": 1000072122,
+        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|58277|1000072122"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "c4B9+j9evYE=",
+      "Meta": null,
+      "Name": "JohnnyGuitar NVSE-66927-3-60-1613743166.zip",
+      "Size": 198721,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "JohnnyGuitar NVSE",
+        "Author": "carxt - lStewieAl - c6",
+        "Version": "3.60.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66927/66927-1557249061-172190903.jpeg",
+        "IsNSFW": false,
+        "Description": "PLAY THE GUITAR, PLAY IT AGAIN, MY JOHNNYYYYYYYYYYYY.",
+        "GameName": "FalloutNewVegas",
+        "ModID": 66927,
+        "FileID": 1000072034,
+        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|66927|1000072034"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "bkdnuFJFva4=",
+      "Meta": null,
+      "Name": "NVAC - New Vegas Anti Crash-53635-7-5-1-0.zip",
+      "Size": 110679,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "NVAC - New Vegas Anti Crash",
+        "Author": "Queue",
+        "Version": "7.5.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/53635-1-1392182407.png",
+        "IsNSFW": false,
+        "Description": "Implements structured exception handling and sanity checking to reduce frequency of game crashes.",
+        "GameName": "FalloutNewVegas",
+        "ModID": 53635,
+        "FileID": 1000039152,
+        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|53635|1000039152"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "D8iYPEZ+Ljo=",
+      "Meta": null,
+      "Name": "NVTF-66537-9-9-1c-1613056644.zip",
+      "Size": 88113,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "NVTF - New Vegas Tick Fix",
+        "Author": "Carxt - Tgspy - lStewieAl",
+        "Version": "9.9.1.0c",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66537/66537-1551173585-1817828269.png",
+        "IsNSFW": false,
+        "Description": "The newest generation in performance enhancement and stutter fixing. Windows 10 compatible. Featuring fixes to the dreaded micro stutter, and a high FPS Havok fix.",
+        "GameName": "FalloutNewVegas",
+        "ModID": 66537,
+        "FileID": 1000071386,
+        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|66537|1000071386"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "ZvshdI+OAZw=",
+      "Meta": null,
+      "Name": "NVTF stability and performance ini-66537-9-9-2c-1613073041.zip",
+      "Size": 2395,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "NVTF - New Vegas Tick Fix",
+        "Author": "Carxt - Tgspy - lStewieAl",
+        "Version": "9.9.2.0c",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66537/66537-1551173585-1817828269.png",
+        "IsNSFW": false,
+        "Description": "The newest generation in performance enhancement and stutter fixing. Windows 10 compatible. Featuring fixes to the dreaded micro stutter, and a high FPS Havok fix.",
+        "GameName": "FalloutNewVegas",
+        "ModID": 66537,
+        "FileID": 1000071414,
+        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|66537|1000071414"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "0++5F7b33lE=",
+      "Meta": null,
+      "Name": "OneTweak-40706-2-1-0-2.7z",
+      "Size": 78538,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "OneTweak",
+        "Author": "virusek",
+        "Version": "2.1.0.2",
+        "ImageURL": null,
+        "IsNSFW": false,
+        "Description": "Skyrim, Fallout3, FalloutNV, Oblivion\r\n\nOneTweak - One To Tweak Them All!\r\n\nCurrently includes: Double Cursor Fix, Borderless Window and Skyrim ShowRaceMenu precache killer.",
+        "GameName": "Skyrim",
+        "ModID": 40706,
+        "FileID": 1000231728,
+        "PrimaryKeyString": "NexusDownloader+State|Skyrim|40706|1000231728"
+      }
+    }
+  ],
+  "InlinedFiles": [
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "75982c6f-ad54-4a51-a642-961ce120e775",
+      "Hash": "2PvRytabfWU=",
+      "Size": 47,
+      "To": "dump_running_process.bat"
+    },
+    {
+      "$type": "RemappedInlineFile, Wabbajack.Lib",
+      "SourceDataID": "0f35c82a-cf8b-4885-b658-8ba36fd55ed6",
+      "Hash": "SMhW5TAUyfU=",
+      "Size": 12526,
+      "To": "ModOrganizer.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "32799f36-d19c-4c22-aa05-655cfa80fb63",
+      "Hash": "0ttD7g9P9Tg=",
+      "Size": 534,
+      "To": "mods\\FNV Mod Limit Fix\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "5d588db8-9818-4b33-8391-086bfa48195d",
+      "Hash": "kmjcJGsZ69A=",
+      "Size": 14928,
+      "To": "mods\\JIP LN NVSE Plugin\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "2b53cd64-1a5c-441e-ba08-58a6c209b052",
+      "Hash": "JPop0W7HZLA=",
+      "Size": 540,
+      "To": "mods\\JohnnyGuitar NVSE\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "ff9dd856-d77f-46f3-b240-09bfd74bb4a1",
+      "Hash": "uNILpUpy8CA=",
+      "Size": 28154,
+      "To": "mods\\NVAC - New Vegas Anti Crash\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "0731adaf-f5c8-4c4a-b823-404d84d85899",
+      "Hash": "VToaCH+Xf7g=",
+      "Size": 4615,
+      "To": "mods\\NVTF - New Vegas Tick Fix\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "1540e281-5764-408a-aa52-3127f819ce01",
+      "Hash": "XGHdiQcCAYA=",
+      "Size": 4637,
+      "To": "mods\\NVTF stability and performance ini\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "21ad1e8b-d147-4eb6-9fee-e68eda5129b2",
+      "Hash": "XaG/VPJZSL8=",
+      "Size": 516,
+      "To": "mods\\OneTweak\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "2e4b6ddf-336a-4da4-98fb-deb34f769432",
+      "Hash": "7NfdJqPKj38=",
+      "Size": 105,
+      "To": "mods\\Utilities_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "bfbc9d2c-10ae-4a88-9fa8-211007f5e2aa",
+      "Hash": "lPbdili/4ds=",
+      "Size": 458,
+      "To": "mods\\xNVSE\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "eb1db712-8707-4116-a6a2-db52d64e71d7",
+      "Hash": "x4vmqbeYjCE=",
+      "Size": 538,
+      "To": "profiles\\Viva New Vegas\\archives.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "6d4ca21a-4064-4591-bd8e-8a66935e26f8",
+      "Hash": "menYUTfbRu8=",
+      "Size": 0,
+      "To": "profiles\\Viva New Vegas\\custom.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "b491f0eb-638d-49ba-92dc-5079d9ac916c",
+      "Hash": "cr+rVhWkDeQ=",
+      "Size": 20060,
+      "To": "profiles\\Viva New Vegas\\fallout.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "39687812-a85e-428d-9ed5-65f5ff274885",
+      "Hash": "JBAoleuLPEo=",
+      "Size": 416,
+      "To": "profiles\\Viva New Vegas\\falloutcustom.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "f1abb838-be90-4908-9bd6-ab4671ea8f77",
+      "Hash": "utvfcjLJIAM=",
+      "Size": 21482,
+      "To": "profiles\\Viva New Vegas\\falloutprefs.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "7aa05a2d-8ac4-4718-b03c-8af6a0be9b02",
+      "Hash": "5ceCLNamsYM=",
+      "Size": 17778,
+      "To": "profiles\\Viva New Vegas\\GECKCustom.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d609f274-ab04-4d60-a98e-e8aa05a6ed6f",
+      "Hash": "gcDx6kqU5Ec=",
+      "Size": 3895,
+      "To": "profiles\\Viva New Vegas\\GECKPrefs.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "7f1039f3-7b45-416c-b2eb-6dd17ed8a0fa",
+      "Hash": "zH3GSffbvsA=",
+      "Size": 36,
+      "To": "profiles\\Viva New Vegas\\initweaks.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "3f10fd87-ddaa-4621-ab46-ab031047be56",
+      "Hash": "iQo3xfg6mFs=",
+      "Size": 236,
+      "To": "profiles\\Viva New Vegas\\loadorder.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "58a1bfbb-7777-4fb2-af8f-8db5641851a5",
+      "Hash": "CcflEOKPT3E=",
+      "Size": 59,
+      "To": "profiles\\Viva New Vegas\\lockedorder.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "7e02e61f-adbe-45e0-ae49-0a40b13c2288",
+      "Hash": "aA3feLMZNIA=",
+      "Size": 436,
+      "To": "profiles\\Viva New Vegas\\modlist.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "0defbc1e-0b3c-41e5-933d-457cd26af6d7",
+      "Hash": "iQo3xfg6mFs=",
+      "Size": 236,
+      "To": "profiles\\Viva New Vegas\\plugins.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a6872613-96a5-4cf9-9212-2017f24a03f2",
+      "Hash": "Dze+zcXPtbg=",
+      "Size": 84,
+      "To": "profiles\\Viva New Vegas\\settings.ini"
+    }
+  ]
+}
