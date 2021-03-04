@@ -11,7 +11,7 @@ Please don't ask for support in neither Wabbajack nor Viva New Vegas Discord ser
 ## REQUIREMENTS
 
 * Current version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest).
-* A clean installation of Fallout New Vegas, and all DLCs, otherwise known as Fallout: New Vegas Ultimate Edition.
+* A clean English installation of Fallout New Vegas, and all DLCs, otherwise known as Fallout: New Vegas Ultimate Edition.
   * **Acquired through either GOG or Steam.**
 * A [Nexusmods](https://www.nexusmods.com/) account.
 * Around 2GB of free space.
@@ -25,6 +25,7 @@ Please don't ask for support in neither Wabbajack nor Viva New Vegas Discord ser
 5. Select **Options** then select the **Ultra** (or **High**) preset option.
 6. Set the **Resolution** option to your preference.
 7. Click **OK** then **Exit**.
+8. If you have FNV from **GOG**, go to the **Data** folder and delete **FalloutNV_lang.esp**.
 
 ## MODLIST INSTALLATION INSTRUCTIONS
 
