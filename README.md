@@ -43,9 +43,9 @@ Please don't ask for support in neither Wabbajack nor Viva New Vegas Discord ser
 ## POST INSTALLATION INSTRUCTIONS
 
 1. Navigate to the Viva New Vegas installation folder.
-2. Open the folder named **CopyContentsToRoot**.
-3. Copy everything in this folder and paste it into your Fallout New Vegas folder ("GOG/Games/Fallout New Vegas" or "steam/steamapps/common/Fallout New Vegas"). **DO NOT COPY PASTE THE FOLDER ITSELF. DO NOT COPY YOUR ENTIRE VIVA NEW VEGAS FOLDER. COPY _ONLY_ THE FILES IN THE CopyContentsToRoot FOLDER.**
-4. Rightclick on **FalloutNVpatch.exe** and run as admin.
+2. Open the folder named **Game Folder Files**.
+3. Copy everything in this folder and paste it into your Fallout New Vegas folder ("GOG/Games/Fallout New Vegas" or "steam/steamapps/common/Fallout New Vegas"). **DO NOT COPY PASTE THE FOLDER ITSELF. DO NOT COPY YOUR ENTIRE VIVA NEW VEGAS FOLDER. COPY _ONLY_ THE FILES IN THE "GAME FOLDER FILES" FOLDER.**
+4. Rightclick on **FalloutNVpatch.exe** and run as admin. Press Enter when finished.
 
 ## BEFORE YOU BEGIN PLAYING
 
