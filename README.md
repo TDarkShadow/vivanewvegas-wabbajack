@@ -18,7 +18,7 @@ Please don't ask for support in neither Wabbajack nor Viva New Vegas Discord ser
 
 ## PRE INSTALLATION INSTRUCTIONS
 
-1. Delete your **Documents\My Games\FalloutNV** if you have one. **This will delete your saves if you have any!**
+1. Navigate to **Documents\My Games\FalloutNV** and delete all the files ending in **.ini**.
 2. Navigate to your Fallout New Vegas installation folder.
 3. Run **FalloutNVLauncher.exe**.
 4. Click OK to both pop-ups that say **Detecting Video Hardware**.
