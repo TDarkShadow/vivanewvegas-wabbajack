@@ -50,6 +50,7 @@ Please don't ask for support in neither Wabbajack nor Viva New Vegas Discord ser
 
 ## BEFORE YOU BEGIN PLAYING
 
+* Launch the game using the **New Vegas** option in MO2 (NOT the NVSE option).
 * On the left panel is a mod entitled **lStewieAI's Tweaks** - this is a file loaded with options that change how the game plays and crucial engine level fixes. If you are happy with how the game plays you won't need to touch anything in this mod. Otherwise, you can look through the ini in this mod and enable or disable tweaks and quality of life changes as you see fit.
 * This modlist uses JSawyer Ultimate Edition to provide a more challenging but fair gameplay. This mod can be disabled.
 
