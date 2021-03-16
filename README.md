@@ -34,7 +34,7 @@ Please don't ask for support in neither Wabbajack nor Viva New Vegas Discord ser
 3. Place the downloaded Wabbajack.exe into this folder.
 4. Download [the latest version](https://github.com/TDarkShadow/vivanewvegas-wabbajack/archive/master.zip) of this modlist.
 5. Unpack the zip file into the same folder as the Wabbajack.exe.
-6. Run Wabbajack.exe. Locate Starstruck Courier on the gallery and click the down arrow to download the modlist file.
+6. Run Wabbajack.exe. Select **Install From Disk**. Click on **···** next to **Target Modlist** to browse for the modlist.
 7. In **Installation Location** select an empty folder that is **NOT** located in Program Files or your Desktop. **DO NOT INSTALL THIS LIST INTO YOUR STEAM GAME PATH OR THE FOLDER WITH THE WABBAJACK EXE.**
 8. The downloads location will auto-populate. This can be changed if prefered.
 9. Click the button with the Play Arrow to begin the process.
