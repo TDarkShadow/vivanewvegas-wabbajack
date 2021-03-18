@@ -11,7 +11,8 @@ Please don't ask for support in neither Wabbajack nor Viva New Vegas Discord ser
 ## REQUIREMENTS
 
 * Latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest).
-* A clean **English** installation of Fallout New Vegas, and all DLCs, otherwise known as Fallout: New Vegas Ultimate Edition.
+* A clean **English** installation of Fallout New Vegas, and all DLCs.
+  * Also known as Fallout: New Vegas Ultimate Edition.
   * **Acquired through either [GOG](https://www.gog.com/game/fallout_new_vegas_ultimate_edition/) or [Steam](https://store.steampowered.com/sub/13435/).**
 * Around 12 GB of free space.
   * 9,5 GB for the game, and 2,5 GB for the modlist.
