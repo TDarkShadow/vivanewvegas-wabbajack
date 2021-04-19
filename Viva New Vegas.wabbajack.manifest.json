@@ -1,15 +1,15 @@
 {
   "$type": "Manifest, Wabbajack.Lib",
   "Name": "Viva New Vegas",
-  "Version": "2021.4.6",
+  "Version": "2021.4.18",
   "Author": "Qolore & TDarkShadow",
   "Description": "Viva New Vegas is a lite modlist that tries to stay as close as possible to vanilla, but fixes as many bugs as possible, optimize the performance, and add in some quality of life features without being intrusive. This modlist uses JSawyer Ultimate Edition but can be played without.",
   "GameType": "FalloutNewVegas",
   "GameName": "FalloutNewVegas",
   "ModManager": 0,
   "ModManagerName": "MO2",
-  "DownloadSize": 1646029813,
-  "InstallSize": 2412522598,
+  "DownloadSize": 587153952,
+  "InstallSize": 1508644441,
   "IsNSFW": false,
   "Archives": [
     {
@@ -67,15 +67,15 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "F2/oCLMFS5U=",
+      "Hash": "lITQIXoY+Jg=",
       "Meta": null,
-      "Name": "nvse_6_0_8.7z",
-      "Size": 376868,
+      "Name": "nvse_6_0_9.7z",
+      "Size": 377104,
       "State": {
         "$type": "HttpDownloader, Wabbajack.Lib",
-        "Url": "https://github.com/xNVSE/NVSE/releases/download/6.0.8/nvse_6_0_8.7z",
+        "Url": "https://github.com/xNVSE/NVSE/releases/download/6.0.9/nvse_6_0_9.7z",
         "Headers": [],
-        "PrimaryKeyString": "HTTPDownloader+State|https://github.com/xNVSE/NVSE/releases/download/6.0.8/nvse_6_0_8.7z"
+        "PrimaryKeyString": "HTTPDownloader+State|https://github.com/xNVSE/NVSE/releases/download/6.0.9/nvse_6_0_9.7z"
       }
     },
     {
@@ -100,22 +100,22 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "Ctnl47Z4h34=",
+      "Hash": "deGPlB1GDqo=",
       "Meta": null,
-      "Name": "Altitude-71404-2-4-1616956036.7z",
-      "Size": 7010845,
+      "Name": "Altitude-71404-2-5-1617720916.7z",
+      "Size": 5990098,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Altitude - A Vanilla Plus Weather Mod",
         "Author": "Qolore7",
-        "Version": "2.4.0.0",
+        "Version": "2.5.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71404/71404-1613856759-2052622102.png",
         "IsNSFW": false,
         "Description": "Vastly improves all the weathers in the game, without stepping on the toes of vanilla New Vegas's design too much",
         "GameName": "FalloutNewVegas",
         "ModID": 71404,
-        "FileID": 1000074223,
-        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|71404|1000074223"
+        "FileID": 1000074615,
+        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|71404|1000074615"
       }
     },
     {
@@ -176,26 +176,6 @@
         "ModID": 71512,
         "FileID": 1000072609,
         "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|71512|1000072609"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "78BPFukSbRU=",
-      "Meta": null,
-      "Name": "Consistent Pip-boy Icons-65046-3-605-1607685878.7z",
-      "Size": 34810854,
-      "State": {
-        "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "Consistent Pip-Boy Icons",
-        "Author": "ItsMeJesusHChrist also known as LOC or The Icon Guy",
-        "Version": "3.605.0.0",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/65046/65046-1606389171-533598154.png",
-        "IsNSFW": false,
-        "Description": "This is a lore-friendly total overhaul mod that tweaks around 3600 icons which made them immersively more consistent in terms of coloring and transparency. There are other bug fixes too, and many new details! Okay, just write that in the brief overview, it's not that hard.",
-        "GameName": "FalloutNewVegas",
-        "ModID": 65046,
-        "FileID": 1000068499,
-        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|65046|1000068499"
       }
     },
     {
@@ -460,22 +440,22 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "yj+QSC1Z6Yc=",
+      "Hash": "kaJ7OjjrDtQ=",
       "Meta": null,
-      "Name": "New Vegas Redesigned 2 Revised-71556-1-1-1614888184.7z",
-      "Size": 117608761,
+      "Name": "New Vegas Redesigned 2 Revised-71556-1-3-1618599970.7z",
+      "Size": 117609750,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "New Vegas Redesigned 2 Revised",
         "Author": "Qolore7 - Dracomies",
-        "Version": "1.1.0.0",
+        "Version": "1.3.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71556/71556-1614874444-350313875.jpeg",
         "IsNSFW": false,
         "Description": "A complete cleanup and revision of Dracomies wonderful New Vegas Redesigned 2, similar to Qwinn's Redesigned 3",
         "GameName": "FalloutNewVegas",
         "ModID": 71556,
-        "FileID": 1000072805,
-        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|71556|1000072805"
+        "FileID": 1000075009,
+        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|71556|1000075009"
       }
     },
     {
@@ -540,22 +520,22 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "zmQdjsBgHnI=",
+      "Hash": "HYv5MpZWOls=",
       "Meta": null,
-      "Name": "Simple Interior Lighting Overhaul-71390-1-2-1613924248.7z",
-      "Size": 2010,
+      "Name": "Simple Interior Lighting Overhaul-71390-1-3-1618340231.7z",
+      "Size": 1940,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Simple Interior Lighting Overhaul",
         "Author": "Qolore 7 - Anro24",
-        "Version": "1.2.0.0",
+        "Version": "1.3.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71390/71390-1613788181-76508826.png",
         "IsNSFW": false,
         "Description": "Simple scripted interior lighting overhaul. Automatically works with any mod",
         "GameName": "FalloutNewVegas",
         "ModID": 71390,
-        "FileID": 1000072165,
-        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|71390|1000072165"
+        "FileID": 1000074910,
+        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|71390|1000074910"
       }
     },
     {
@@ -660,22 +640,42 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "dMT2TR7nEmw=",
+      "Hash": "jRGlZ3kgjwQ=",
       "Meta": null,
-      "Name": "Unofficial Patch NVSE Plus-71239-1-2-7-1617390924.zip",
-      "Size": 39454,
+      "Name": "Unofficial Patch NVSE Plus-71239-1-2-8-1618756305.zip",
+      "Size": 36227,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Unofficial Patch NVSE Plus",
         "Author": "The UPNVSE Pals",
-        "Version": "1.2.7.0",
+        "Version": "1.2.8.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71239/71239-1613150758-1586974762.png",
         "IsNSFW": false,
         "Description": "An updated an refined selection of bugfixes (mostly) requiring NVSE.",
         "GameName": "FalloutNewVegas",
         "ModID": 71239,
-        "FileID": 1000074433,
-        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|71239|1000074433"
+        "FileID": 1000075071,
+        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|71239|1000075071"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "78BPFukSbRU=",
+      "Meta": null,
+      "Name": "Consistent Pip-boy Icons-65046-3-605-1607685878.7z",
+      "Size": 34810854,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Consistent Pip-Boy Icons",
+        "Author": "ItsMeJesusHChrist also known as LOC or The Icon Guy",
+        "Version": "3.605.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/65046/65046-1606389171-533598154.png",
+        "IsNSFW": false,
+        "Description": "This is a lore-friendly total overhaul mod that tweaks around 3600 icons which made them immersively more consistent in terms of coloring and transparency. There are other bug fixes too, and many new details! Okay, just write that in the brief overview, it's not that hard.",
+        "GameName": "FalloutNewVegas",
+        "ModID": 65046,
+        "FileID": 1000068499,
+        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|65046|1000068499"
       }
     },
     {
@@ -700,10 +700,10 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "BekxK/JPjA0=",
+      "Hash": "1UdFH+NQfCA=",
       "Meta": null,
       "Name": "Vanilla LOD.7z",
-      "Size": 171261256,
+      "Size": 171261082,
       "State": {
         "$type": "GoogleDriveDownloader, Wabbajack.Lib",
         "Id": "1lznQ6JB8093BUrLsXR5jKK_x-INB7fX2",
@@ -744,22 +744,35 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "DEG08zMsaSg=",
+      "Hash": "/il6WzhA2vM=",
       "Meta": null,
-      "Name": "YUP - Base Game and All DLC-51664-12-0-1604751809.7z",
-      "Size": 40418585,
+      "Name": "WMIM ESP Replacer.7z",
+      "Size": 47369,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Url": "https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/ea5d28fe987ba2c8f4ae98b30dd9c5ff5ad65463/WMIM%20ESP%20Replacer.7z",
+        "Headers": [],
+        "PrimaryKeyString": "HTTPDownloader+State|https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/ea5d28fe987ba2c8f4ae98b30dd9c5ff5ad65463/WMIM%20ESP%20Replacer.7z"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "AmbwQxmLlEA=",
+      "Meta": null,
+      "Name": "YUP - Base Game and All DLC-51664-12-1-1618164049.7z",
+      "Size": 44167757,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Yukichigai Unofficial Patch - YUP",
         "Author": "Yukichigai - Currently maintained by sandbox",
-        "Version": "12.0.0.0",
+        "Version": "12.1.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/51664-1-1376698198.png",
         "IsNSFW": false,
         "Description": "A compilation of vital bug fixes for Fallout: New Vegas and its DLC, all combined into one ESM.  The only pure bug fix compilation available on the Nexus: no new features, no balance tweaks, no restored content.  Just bug fixes and nothing but bug fixes.  Available in English, French, German, Italian, Spanish, and Russian.",
         "GameName": "FalloutNewVegas",
         "ModID": 51664,
-        "FileID": 1000067318,
-        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|51664|1000067318"
+        "FileID": 1000074806,
+        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|51664|1000074806"
       }
     },
     {
@@ -800,6 +813,32 @@
         "ModID": 61592,
         "FileID": 1000074560,
         "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|61592|1000074560"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "TrDR4AaDBVk=",
+      "Meta": null,
+      "Name": "JSawyer Ultimate Edition Custom INI.7z",
+      "Size": 3096,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Url": "https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/0c51c7d2253c97ed8a96fe926a56c0aecca43d87/JSawyer%20Ultimate%20Edition%20Custom%20INI.7z",
+        "Headers": [],
+        "PrimaryKeyString": "HTTPDownloader+State|https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/0c51c7d2253c97ed8a96fe926a56c0aecca43d87/JSawyer%20Ultimate%20Edition%20Custom%20INI.7z"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "lo6OiLieV+U=",
+      "Meta": null,
+      "Name": "Real Recoil Custom INI.7z",
+      "Size": 2031,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Url": "https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/8f4f94589c3115b68462babfc6b0fe18a6efb791/Real%20Recoil%20Custom%20INI.7z",
+        "Headers": [],
+        "PrimaryKeyString": "HTTPDownloader+State|https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/8f4f94589c3115b68462babfc6b0fe18a6efb791/Real%20Recoil%20Custom%20INI.7z"
       }
     },
     {
@@ -924,22 +963,35 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "N5lQQiNbwhA=",
+      "Hash": "0z5ilCz7SBg=",
       "Meta": null,
-      "Name": "Stewie Tweaks-66347-6-20-1616341555.zip",
-      "Size": 316738,
+      "Name": "Stewie Tweaks-66347-6-25-1618599507.zip",
+      "Size": 313791,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "lStewieAl's Tweaks",
         "Author": "lStewieAl",
-        "Version": "6.20.0.0",
+        "Version": "6.25.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66347/66347-1609155725-1037587166.png",
         "IsNSFW": false,
         "Description": "A fully customisable engine plugin providing a collection of optional bugfixes, tweaks and new features to the game at no performance cost. \n\nIncludes Inventory Searching, Cookable Grenades, Smooth Aiming, WASD Menu Support and more. Fully compatible with TTW and The Frontier.",
         "GameName": "FalloutNewVegas",
         "ModID": 66347,
-        "FileID": 1000073850,
-        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|66347|1000073850"
+        "FileID": 1000075007,
+        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|66347|1000075007"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Rw1SykiU8ww=",
+      "Meta": null,
+      "Name": "lStewieAl's Tweaks Custom INI.7z",
+      "Size": 26636,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Url": "https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/252b874199ced5127201bd37b5810ecd1693c969/lStewieAl's%20Tweaks%20Custom%20INI.7z",
+        "Headers": [],
+        "PrimaryKeyString": "HTTPDownloader+State|https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/252b874199ced5127201bd37b5810ecd1693c969/lStewieAl's%20Tweaks%20Custom%20INI.7z"
       }
     },
     {
@@ -1104,41 +1156,6 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "jiqlT0njgBA=",
-      "Meta": null,
-      "Name": "Data_Fallout - Meshes.bsa",
-      "Size": 1061624491,
-      "State": {
-        "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-        "Game": "FalloutNewVegas",
-        "GameFile": "Data\\Fallout - Meshes.bsa",
-        "Hash": "jiqlT0njgBA=",
-        "GameVersion": "1.4.0.525",
-        "PrimaryKeyString": "GameFileSourceDownloader+State|FalloutNewVegas|1.4.0.525|data\\fallout - meshes.bsa"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "pHdallec+xY=",
-      "Meta": null,
-      "Name": "Consistent Pip-boy Icons Update-65046-3-607-1612871789.7z",
-      "Size": 53734,
-      "State": {
-        "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "Consistent Pip-Boy Icons",
-        "Author": "ItsMeJesusHChrist also known as LOC or The Icon Guy",
-        "Version": "3.607.0.0",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/65046/65046-1606389171-533598154.png",
-        "IsNSFW": false,
-        "Description": "This is a lore-friendly total overhaul mod that tweaks around 3600 icons which made them immersively more consistent in terms of coloring and transparency. There are other bug fixes too, and many new details! Okay, just write that in the brief overview, it's not that hard.",
-        "GameName": "FalloutNewVegas",
-        "ModID": 65046,
-        "FileID": 1000071262,
-        "PrimaryKeyString": "NexusDownloader+State|FalloutNewVegas|65046|1000071262"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
       "Hash": "uQirqmcN9g8=",
       "Meta": null,
       "Name": "Faster Pip-Boy Animation (2x)-67761-1-0-1571797210.zip",
@@ -1161,563 +1178,549 @@
   "InlinedFiles": [
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "aa868ffa-cba3-4446-b7f4-7a97ceb8de77",
+      "SourceDataID": "1ded2f20-61bb-4f42-9d2b-80219467dc51",
       "Hash": "2PvRytabfWU=",
       "Size": 47,
       "To": "dump_running_process.bat"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "74bb96fe-1a28-464f-9f5f-aadff2da49a3",
-      "Hash": "blGUPP0T1vA=",
-      "Size": 14345,
+      "SourceDataID": "396fec77-e7cc-4ae8-abbb-ce3ac72cab92",
+      "Hash": "/eix8yVZ/9k=",
+      "Size": 14566,
       "To": "ModOrganizer.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "69210c1c-1005-4f99-9f55-79ead2c28128",
-      "Hash": "YJAKx5+IDeI=",
+      "SourceDataID": "c6b20a3d-79d3-42b4-a30f-65c5703d4dbc",
+      "Hash": "9Pg9i1+fD28=",
       "Size": 543,
       "To": "mods\\A Little More Lamplight\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3e5b9de1-838e-4ba5-b712-6a90a1db893c",
-      "Hash": "glamJ7Hkeng=",
-      "Size": 527,
+      "SourceDataID": "9473dce4-676a-4e1c-a284-2ebd6fe57a85",
+      "Hash": "0oUHB3F3AZc=",
+      "Size": 2481,
       "To": "mods\\Altitude - A Vanilla Plus Weather Mod\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f4e0aca7-7e16-4ccd-80d7-55578b79d02c",
-      "Hash": "3YJMDCo7ppw=",
+      "SourceDataID": "20e2cc7e-bb2d-4aff-85e0-3a2c2a794464",
+      "Hash": "LpatgzdEgnE=",
       "Size": 3498,
       "To": "mods\\Anniversary Anim Pack\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3de68a8a-9f8b-4053-8b26-830a31bac25d",
-      "Hash": "IHVSll5OTcI=",
+      "SourceDataID": "cfe83fe0-ff11-4a05-a238-54fef30b68f6",
+      "Hash": "6vsHbQRaM44=",
       "Size": 3504,
       "To": "mods\\Anniversary Anim Pack - Weapon Mesh Improvement Mod Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "30a1cee5-1bc9-4452-9a1a-d7e7afecc8cc",
-      "Hash": "gbopztU6e8Q=",
+      "SourceDataID": "4de78015-cf00-4b87-b7e9-c2e7d8748611",
+      "Hash": "EztJZN5WJCo=",
       "Size": 3616,
       "To": "mods\\B42 Weapon Inertia\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b0618a12-2651-4763-8a9a-a2811ede5069",
-      "Hash": "SOxTppnGXXo=",
+      "SourceDataID": "493a334c-390c-4fcb-9f95-0b7705e9a872",
+      "Hash": "6ibksxRbPxU=",
       "Size": 544,
       "To": "mods\\Better Character Creation\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b26a073d-7375-41f3-83db-7aa87a0380e6",
-      "Hash": "LOeVhDwtzRQ=",
+      "SourceDataID": "59c3df8c-1cc2-49ec-b705-54d14f6a4bde",
+      "Hash": "+270DKxwZDc=",
       "Size": 532,
       "To": "mods\\Better Ghouls - No Roar Animation\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d10dbd62-7f96-495e-8c77-3cbf38743203",
+      "SourceDataID": "43d87381-331f-4136-b7cc-564fbea883f1",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Bug Fix + QOL_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5299da0e-944e-401a-bb74-841f712bf560",
-      "Hash": "IsinBCdraSw=",
+      "SourceDataID": "eee57ca7-3fd8-46a4-b132-f57a3ab72105",
+      "Hash": "AMwWIQ+gqqw=",
       "Size": 1818,
       "To": "mods\\Complex Vendors\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cb5e8058-0d6c-43ef-ba76-b6951a5a3879",
-      "Hash": "BwafOfQXNc0=",
-      "Size": 7564,
-      "To": "mods\\Consistent Pip-Boy Icons\\meta.ini"
-    },
-    {
-      "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "647bef7f-265f-4419-806b-5fef734500fc",
-      "Hash": "cIdt1wGGim0=",
+      "SourceDataID": "36893595-6d04-4d19-910a-88a7e77992e4",
+      "Hash": "BKQ0jSFFbPI=",
       "Size": 533,
       "To": "mods\\Console Paste Support\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9282b5bc-b7f2-483b-b246-1a00b3fe097c",
-      "Hash": "icecwuYAPt4=",
+      "SourceDataID": "cef426f9-6dd0-4cfd-ae88-b4c49a65b14a",
+      "Hash": "pEnLyOjL3qw=",
       "Size": 538,
       "To": "mods\\Economy Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f0e4c493-6331-456f-beba-a0a9b617428e",
-      "Hash": "dc579mK4Ffw=",
+      "SourceDataID": "794496db-89f4-484c-9e8c-db0b7a2ee52a",
+      "Hash": "+y8iD4o3vUQ=",
       "Size": 2420,
       "To": "mods\\Faster Pip-Boy Animation (2x)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "db504670-8aad-49e8-8687-4130d325870d",
-      "Hash": "T4Gd0559vi4=",
+      "SourceDataID": "3fd130d3-fe29-406a-8af6-003e7c956ea2",
+      "Hash": "yNpXc4LfcIY=",
       "Size": 534,
       "To": "mods\\FNV Mod Limit Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c23509c2-bb86-4f35-8679-5ca2ab81bcde",
-      "Hash": "s8XnN3lCgxw=",
+      "SourceDataID": "503f18dc-74e8-43fa-8c77-65039ed46f80",
+      "Hash": "YiSsHj85aK0=",
       "Size": 2133,
       "To": "mods\\Follower Formula Redone\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d8f05334-b7a9-4a5e-8054-b1432190d199",
-      "Hash": "6kL4QVp9xS8=",
+      "SourceDataID": "31747a9c-3988-45e4-adf4-4f6e78b3951e",
+      "Hash": "y29TKYVIemE=",
       "Size": 2490,
       "To": "mods\\Follower Tweaks\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "af1f4b3f-d7c7-4181-9ddd-a448c0af1f6d",
+      "SourceDataID": "61fe9241-b9d8-4807-9dca-35ff6f83d468",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Gameplay_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8ec26593-567e-483d-8da0-41a8973a5f3c",
-      "Hash": "l9ASUmVcX48=",
+      "SourceDataID": "09eadaba-018c-4d5f-84aa-cf8677607b8a",
+      "Hash": "6FpW28BgL0g=",
       "Size": 541,
       "To": "mods\\GRA Unique Weapons Relocated - Balanced NVSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f5bf679d-42b0-4f54-b2f0-5ddc3851f9b8",
+      "SourceDataID": "8ab9af65-be2a-4c7b-a278-a620b7c8a2fe",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\HUD + UI_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d33cbc89-8b4f-4373-b10a-4d7de54a870f",
-      "Hash": "GYiuutDhwp0=",
+      "SourceDataID": "cde9de0b-e5d5-4a19-bf7c-0c9a8f65c902",
+      "Hash": "q2CQPly3Bek=",
       "Size": 2933,
       "To": "mods\\Improved LOD Noise Texture\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "aca62f7d-063d-4c94-b06b-cdea2056ebf0",
-      "Hash": "iblQOwUGJaE=",
+      "SourceDataID": "34d54a39-d09f-4dc2-b802-5d844e4419ba",
+      "Hash": "hZkXvpNvD50=",
       "Size": 541,
       "To": "mods\\JDC - Just Dynamic Crosshair\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "82b860a4-d1df-4d0b-a886-86a7549040ac",
-      "Hash": "5nDWZpbATyo=",
+      "SourceDataID": "4f77c744-4bf3-4ddb-b41c-c4355c347ba9",
+      "Hash": "LfrrX705Rn4=",
       "Size": 537,
       "To": "mods\\JHM - Just Hit Marker\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "703e17fa-fb9d-4585-bc5b-0c1f5e79e6aa",
-      "Hash": "j3b9laqwdyU=",
+      "SourceDataID": "71a0fabc-cfed-4586-9f7b-bddba6326fc3",
+      "Hash": "gyXD5NLz0UM=",
       "Size": 3299,
       "To": "mods\\JIP Improved Recipe Menu\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ab36f0b7-d559-4a03-8aa3-9bd60f5e8edf",
-      "Hash": "dD2CW9dpfzI=",
+      "SourceDataID": "fffff5b3-f055-4fca-8227-49dca20d4138",
+      "Hash": "6OoKzVCRrRU=",
       "Size": 14685,
       "To": "mods\\JIP LN NVSE Plugin\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "256a1960-998b-4971-9855-26dc61402129",
-      "Hash": "CJJ2GJven1U=",
+      "SourceDataID": "cbe6ea60-ea5d-46de-a261-e049b10aefcf",
+      "Hash": "z0Y43iBF7Qs=",
+      "Size": 970,
+      "To": "mods\\JIP LN NVSE Plugin - Overhauls INI\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "4b1ca32a-7cdc-455d-be3c-7184d02b9a96",
+      "Hash": "cVqcgTAXzDQ=",
       "Size": 1325,
       "To": "mods\\JLM - Just Loot Menu\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "665e7aca-c795-4914-b138-293b3b416f34",
-      "Hash": "c6GrZt1DGY8=",
+      "SourceDataID": "a5ce2513-ba07-4deb-916d-0f40602839c8",
+      "Hash": "2M4hR21tN4Q=",
       "Size": 1321,
       "To": "mods\\JLM - Just Loot Menu - Container Animations\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8f0d8499-1939-48bd-8b69-b9599f54f21f",
-      "Hash": "UTAbzBrOwCw=",
+      "SourceDataID": "68b315b5-21fb-4575-8208-1a22f47959eb",
+      "Hash": "KJmbZNHEj74=",
       "Size": 5722,
       "To": "mods\\JohnnyGuitar NVSE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b307772f-b3d0-4b2a-8c0b-a67b94017fba",
-      "Hash": "us4ZfKz3WjQ=",
+      "SourceDataID": "960bcd05-5d2a-419c-bbed-e25595014778",
+      "Hash": "/mwjbo3k9zI=",
       "Size": 18824,
       "To": "mods\\JSawyer Ultimate Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "baf4df8c-51be-4ec8-870a-c8680b696e1e",
-      "Hash": "DhKEUtbMdc8=",
+      "SourceDataID": "bddb6363-404b-4f1f-b173-1a8b4fbb0448",
+      "Hash": "xd60sj4QVk0=",
       "Size": 18823,
       "To": "mods\\JSawyer Ultimate Edition - Default INI\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "360247df-88d9-4576-b97c-756c0c7cacf7",
-      "Hash": "cSrM9fjUh7Q=",
+      "SourceDataID": "a1937119-f1fe-4a7e-8980-1dedcfaa8ed4",
+      "Hash": "Tt1vjzD7MsU=",
       "Size": 18827,
       "To": "mods\\JSawyer Ultimate Edition - GRA Merged\\meta.ini"
     },
     {
-      "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "28efd0f5-dc56-4dd3-bbcb-082492c1b1ad",
-      "Hash": "Rl+fMFc2INk=",
-      "Size": 728,
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "ea3bf6c6-736f-4518-bf06-6ee535903b7c",
+      "Hash": "0Lgo1tKtZqs=",
+      "Size": 640,
       "To": "mods\\JSawyer Ultimate Edition - Overhauls INI\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "06791c66-ee20-4569-a869-f891d7cb585b",
-      "Hash": "BYTC4pfPErs=",
-      "Size": 536,
+      "SourceDataID": "ae074291-69be-4a2a-9ce7-ca7e0a09f093",
+      "Hash": "io8OD9Yax1Q=",
+      "Size": 76569,
       "To": "mods\\lStewieAl's Tweaks\\meta.ini"
     },
     {
-      "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "a8f9cda6-bb75-4065-95f1-05704aa547ee",
-      "Hash": "xvqh3ugc1pk=",
-      "Size": 723,
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "fac5106b-26ae-4ccf-88cf-427411e9e9af",
+      "Hash": "jJPhJTSvyCA=",
+      "Size": 628,
       "To": "mods\\lStewieAl's Tweaks - Custom INI\\meta.ini"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "6e6988b5-e817-451d-a461-c17268510dc9",
-      "Hash": "xvqh3ugc1pk=",
-      "Size": 723,
+      "SourceDataID": "e2126692-a007-4444-8931-8f0c247bfb9d",
+      "Hash": "1980F7BNlMc=",
+      "Size": 1272,
       "To": "mods\\lStewieAl's Tweaks - Overhauls INI\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "49645e40-8ecc-4431-b044-445378d8ae4f",
-      "Hash": "lQKFfVpNaJE=",
+      "SourceDataID": "d09e7c4c-a67f-4e76-9803-91ef3287f36b",
+      "Hash": "Kk2+0/uv068=",
       "Size": 531,
       "To": "mods\\Marathoner\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ca10a873-6ce6-4273-a23f-76ec5e4afd7c",
-      "Hash": "s0DTi63/azM=",
+      "SourceDataID": "231090db-b6bd-4d1f-8cb0-638fcec35ea6",
+      "Hash": "n9ngs1BAda4=",
       "Size": 547,
       "To": "mods\\Mobile Truck Base Remastered\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b919d269-f617-411c-8656-04ebcdd63c77",
-      "Hash": "9MViJP7Befs=",
+      "SourceDataID": "c98ce0d4-bf1f-4de1-9879-9d7ef3a2248c",
+      "Hash": "A1NMcscr0h4=",
       "Size": 548,
       "To": "mods\\New Vegas Redesigned 2 Revised\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "66ef0599-bdbe-445b-ae19-3d3876d62db2",
-      "Hash": "Y1vGwkq1sdk=",
+      "SourceDataID": "8bc19690-8ac6-482a-ad22-0273c39997b7",
+      "Hash": "N4AykYN3PBI=",
       "Size": 1202,
       "To": "mods\\No Muzzle Flash Lights\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "47be22f0-03a8-4def-a68e-bc4c2be15b70",
-      "Hash": "p4Wki82TVGw=",
+      "SourceDataID": "4ad90e8d-6d18-4a59-a52a-d622ad68e8af",
+      "Hash": "4fNMJKBVLGs=",
       "Size": 4163,
       "To": "mods\\NV Compatibility Skeleton - Vanilla Weights\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "37a1da06-d1a5-4025-b2fb-69a948965abd",
-      "Hash": "zBQ5ySwkPhM=",
+      "SourceDataID": "aa71977c-9110-451a-9b0f-df3c7f21c00b",
+      "Hash": "ZTVdcsxuYlY=",
       "Size": 28154,
       "To": "mods\\NVAC - New Vegas Anti Crash\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9abc2f96-8a01-4da5-95f4-dcc81c8b745b",
-      "Hash": "PFVwDeF/FVc=",
+      "SourceDataID": "183b169e-eff4-4ba7-a83c-d90a85aa887c",
+      "Hash": "I/Req98MZZc=",
       "Size": 4615,
       "To": "mods\\NVTF - New Vegas Tick Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8d498529-3859-49d7-9789-8d12bfd22cf3",
-      "Hash": "2dyMxq1/cBE=",
+      "SourceDataID": "60ee2c01-c468-4b41-87e9-f5b7d5a40b6f",
+      "Hash": "hKzXna8AHao=",
       "Size": 4637,
       "To": "mods\\NVTF - New Vegas Tick Fix - stability and performance ini\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "abfae233-9a8b-4860-8f28-d9b1a5199ed6",
-      "Hash": "eOzPSG3/0g0=",
-      "Size": 516,
+      "SourceDataID": "57526c86-237b-4591-aec8-265c5fe25af6",
+      "Hash": "EpGDZeka2hc=",
+      "Size": 2320,
       "To": "mods\\OneTweak\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8e11e7d9-5c6c-4149-8d25-e228cf05e15a",
+      "SourceDataID": "517ed9ab-3088-4073-be26-7d75374e723c",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Overhauls_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d477061f-a619-42b9-a5a3-fd938296e83f",
-      "Hash": "3+DsjvBY9bg=",
+      "SourceDataID": "48bb09e1-0a1a-4853-b5c4-133407d0f7a4",
+      "Hash": "9NDLACbHTZ0=",
       "Size": 528,
       "To": "mods\\Real Recoil\\meta.ini"
     },
     {
-      "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "43a5efbd-9d16-4da5-bf7a-2c13059a63db",
-      "Hash": "SfmC8F+5uao=",
-      "Size": 716,
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d3715ffd-b7a5-4844-abee-792cc52418aa",
+      "Hash": "YQRRcT6e6Ok=",
+      "Size": 614,
       "To": "mods\\Real Recoil - Custom INI\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "95164f7e-42aa-4066-9c0e-37cd7aced9c4",
-      "Hash": "VYloHBQWYjw=",
+      "SourceDataID": "4cb5803f-0963-441b-a546-29f7926ba07f",
+      "Hash": "515/kLqXX8M=",
       "Size": 536,
       "To": "mods\\Simple DLC Delay\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "33d4e931-0002-404a-897a-a54b2cc68f09",
-      "Hash": "vNH9TUwiOyg=",
-      "Size": 552,
+      "SourceDataID": "514998c1-3b39-4899-85b2-41126d3af773",
+      "Hash": "f7KxCwJjNZI=",
+      "Size": 1868,
       "To": "mods\\Simple Interior Lighting Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e2504738-cc78-483c-b442-e55efc365aec",
-      "Hash": "0ytWcw8OtUg=",
+      "SourceDataID": "f44b8591-53c7-4d49-a99e-e077ad7e31d1",
+      "Hash": "GOBOpiZ4PBU=",
       "Size": 15397,
       "To": "mods\\The Living Desert\\meta.ini"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "570ccde4-69ca-4f7b-a1d6-45fdf16517e3",
-      "Hash": "395fP+p5wMo=",
+      "SourceDataID": "68b87f5c-e753-4450-a0ac-ef35411cf645",
+      "Hash": "lTYbxjWMgeQ=",
       "Size": 7809,
       "To": "mods\\The Mod Configuration Menu\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "59c8ad55-ef7c-437a-9f67-d6ae090ac8b3",
-      "Hash": "pjIgR6EY6lA=",
+      "SourceDataID": "6dda6275-a30c-47d1-bb6a-0dfc45f9ad44",
+      "Hash": "+wPl6aY43Fk=",
       "Size": 7735,
       "To": "mods\\The Mod Configuration Menu - BugFix 2\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ab9dd8f0-0277-478d-ad2b-cb905d21aefb",
-      "Hash": "AL4JDz+dTOw=",
+      "SourceDataID": "090f4e62-23fc-4ae8-a6a8-69b5ff60a6aa",
+      "Hash": "dc9Dw97lslw=",
       "Size": 9724,
       "To": "mods\\UIO - User Interface Organizer\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "43b221c4-24d9-4272-93b3-ac1412ec1e0d",
-      "Hash": "kyfS2Gye/D4=",
+      "SourceDataID": "cd234297-b5d0-439a-968d-1aabf05c49ef",
+      "Hash": "JeD6oR35Dbo=",
       "Size": 541,
       "To": "mods\\Uncut Wasteland plus NPCs\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4c91a5e9-2ddb-4a46-9d26-336d1dc40845",
-      "Hash": "YcmyrVeudjk=",
+      "SourceDataID": "f322d3fb-956e-468b-b4a9-056fc710be40",
+      "Hash": "Z3E0DoQhX3w=",
       "Size": 540,
       "To": "mods\\Unfound Loot\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "965eaa3c-8cca-4ab9-a961-8cb6e5fded83",
-      "Hash": "9r36CUwV8HE=",
-      "Size": 16768,
+      "SourceDataID": "132c886e-3332-4963-9495-74a52ee54c0c",
+      "Hash": "+P80qGtjP44=",
+      "Size": 17303,
       "To": "mods\\Unofficial Patch NVSE Plus\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ee57dc71-e3c8-4c17-a1da-f6b8676599fa",
+      "SourceDataID": "7787d6b2-0788-4588-b5ba-0c516796705f",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Utilities_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7d294478-daec-4b3a-b954-d5f005bd8bde",
-      "Hash": "EtpFIMJNZ7U=",
+      "SourceDataID": "a75f5597-367e-4da5-b26c-e596ad266f19",
+      "Hash": "4jjsIUgCKWM=",
       "Size": 2688,
       "To": "mods\\Vanilla Hud Cleaned\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "54c8a169-fa01-4fd6-bc48-e2f93892723b",
-      "Hash": "f6e1k1UoAig=",
+      "SourceDataID": "98cec3b2-94b0-4cbb-ac46-280320b56642",
+      "Hash": "xuycoin3PbU=",
       "Size": 464,
       "To": "mods\\Vanilla LOD\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "68a3ee53-7825-4fb0-9063-59139be296ee",
+      "SourceDataID": "7bfd7f0f-50e6-4915-9a76-4f7c9b0e5ce8",
       "Hash": "4DPynBjXYsw=",
       "Size": 548,
       "To": "mods\\Vanilla UI Plus (New Vegas)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cdb68379-618d-4cd2-b5ba-bd85bb091371",
+      "SourceDataID": "df72db52-330c-4f34-86d5-1c7d56cc6634",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Visuals_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e8e243f9-8d74-44e4-9e1c-08ab1f79c0db",
-      "Hash": "XJeSm54XOfw=",
+      "SourceDataID": "c35e9bc2-80b1-4085-ab01-3d3f6c72fba4",
+      "Hash": "/cZaRM19Lb4=",
       "Size": 535,
       "To": "mods\\Weapon Mesh Improvement Mod\\meta.ini"
     },
     {
-      "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "62025745-c484-4c06-a3e2-abd189ea2d57",
-      "Hash": "+SqCsYSpq6o=",
-      "Size": 711,
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "49ffa5ad-3b3d-4726-bd33-2c37446416f9",
+      "Hash": "rfJW/zMDY1I=",
+      "Size": 604,
       "To": "mods\\Weapon Mesh Improvement Mod - ESP Replacer\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "aec5f018-aeb8-4d69-818c-2374ebc89e6d",
-      "Hash": "yTp5kcHkQEs=",
-      "Size": 549,
+      "SourceDataID": "0de075bc-f285-4126-a2fc-44f68bc17ce9",
+      "Hash": "bOHeovThGo0=",
+      "Size": 17893,
       "To": "mods\\Yukichigai Unofficial Patch - YUP\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9b0d3a7b-c2e3-4ae6-9d53-d78635183b1a",
+      "SourceDataID": "2fd40c5a-594d-4989-9d9a-638f1f0fd121",
       "Hash": "nzD9IPgshPA=",
       "Size": 614,
       "To": "profiles\\Viva New Vegas\\archives.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "254dcd87-c108-416a-8d3b-55814d4f14a7",
+      "SourceDataID": "30a7e259-b678-4ff8-9a06-806d3f1c0aab",
       "Hash": "menYUTfbRu8=",
       "Size": 0,
       "To": "profiles\\Viva New Vegas\\custom.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bfa6f9d8-1550-4509-a718-c5b7491ec2b3",
+      "SourceDataID": "431c4f67-7298-4c3e-ba95-c213c40b4b2f",
       "Hash": "cr+rVhWkDeQ=",
       "Size": 20060,
       "To": "profiles\\Viva New Vegas\\fallout.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8dbd09e6-f4a9-4d78-bc0d-a93d89e95ae9",
+      "SourceDataID": "e0b0ebdb-2ba9-4d3f-b691-6ff04d56df0c",
       "Hash": "JBAoleuLPEo=",
       "Size": 416,
       "To": "profiles\\Viva New Vegas\\falloutcustom.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "80ab6092-bc24-4324-bb18-3bdde40d86bd",
+      "SourceDataID": "a54dcdb6-6d93-4192-a5a9-4aa3dc40075d",
       "Hash": "HWpa4UQGOIo=",
       "Size": 20543,
       "To": "profiles\\Viva New Vegas\\falloutprefs.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "220d94aa-37da-4608-b5da-1503af1942ff",
+      "SourceDataID": "7b37d6f5-1325-42f6-93e8-b064acd181e2",
       "Hash": "menYUTfbRu8=",
       "Size": 0,
       "To": "profiles\\Viva New Vegas\\GECKCustom.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6a1360c0-48b8-44ee-afab-3ede2bddd4ee",
+      "SourceDataID": "072d0587-6779-4830-8071-bbda2c07e2ee",
       "Hash": "menYUTfbRu8=",
       "Size": 0,
       "To": "profiles\\Viva New Vegas\\GECKPrefs.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "246f8c15-78ab-46d7-bc2d-26e6f42385b0",
+      "SourceDataID": "9b05db2c-4051-4dcf-b15e-5c79e8a321c1",
       "Hash": "zH3GSffbvsA=",
       "Size": 36,
       "To": "profiles\\Viva New Vegas\\initweaks.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "115ccb33-a5b3-4219-8f35-c16bf9502b6f",
+      "SourceDataID": "c0703ccd-1754-4e14-ac1f-42c4004fd7d4",
       "Hash": "mMjKoI9ZlQA=",
       "Size": 1075,
       "To": "profiles\\Viva New Vegas\\loadorder.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "84aeacc6-15e9-47eb-984e-a69d4c1e8bc3",
+      "SourceDataID": "c08c6953-9bd4-4a8e-8473-9e0b639063b9",
       "Hash": "CcflEOKPT3E=",
       "Size": 59,
       "To": "profiles\\Viva New Vegas\\lockedorder.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "641d749c-0f5b-4e4f-b0d8-ede57639f091",
-      "Hash": "CxFi8TBpuO0=",
-      "Size": 2082,
+      "SourceDataID": "abdb284a-335f-4fa0-a6e2-64c687123e81",
+      "Hash": "OpSrrZdJWps=",
+      "Size": 2055,
       "To": "profiles\\Viva New Vegas\\modlist.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5afa9298-233b-48b7-bda8-2e3cfa57fc08",
+      "SourceDataID": "a6d3f544-ff8a-4f5b-91b0-c0d3cfee5551",
       "Hash": "mMjKoI9ZlQA=",
       "Size": 1075,
       "To": "profiles\\Viva New Vegas\\plugins.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bae4d0f7-b6d2-4ec5-b714-cd3172accdab",
+      "SourceDataID": "705a4a2f-6708-43ad-933f-1db3d26076a5",
       "Hash": "Dze+zcXPtbg=",
       "Size": 84,
       "To": "profiles\\Viva New Vegas\\settings.ini"
-    },
-    {
-      "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1c14c157-5f8d-4e66-a391-4490b1c0ff6e",
-      "Hash": "TFcTg6iOHyE=",
-      "Size": 88233,
-      "To": "mods\\lStewieAl's Tweaks - Custom INI\\nvse\\plugins\\nvse_stewie_tweaks.ini"
-    },
-    {
-      "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3dc099a4-ef8a-470a-9b81-2171ea72373f",
-      "Hash": "xMQPr+diHtc=",
-      "Size": 88233,
-      "To": "mods\\lStewieAl's Tweaks - Overhauls INI\\nvse\\plugins\\nvse_stewie_tweaks.ini"
     }
   ]
 }
