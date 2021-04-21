@@ -30,15 +30,14 @@
 1. Download the latest version of Wabbajack.
 2. Create a new folder anywhere that is **NOT** under C:\Program Files, C:\Users or C:\Windows.
 3. Place the downloaded Wabbajack.exe into this folder.
-4. Download [the latest version](https://github.com/TDarkShadow/vivanewvegas-wabbajack/archive/master.zip) of this modlist.
-5. Unpack the zip file into the same folder as the Wabbajack.exe.
-6. Run Wabbajack.exe. Select **Install From Disk**. Click on **···** next to **Target Modlist** to browse for the modlist.
-7. In **Installation Location** select an empty folder that is **NOT** under C:\Program Files, C:\Users or C:\Windows.
+4. Run Wabbajack.exe.
+5. Locate **Viva New Vegas** on the gallery and click the down arrow to download the modlist file.
+6. In **Installation Location** select an empty folder that is **NOT** under C:\Program Files, C:\Users or C:\Windows.
    * **DO NOT INSTALL THIS LIST INTO YOUR STEAM GAME PATH OR THE FOLDER WITH THE WABBAJACK EXE.**
-8. The downloads location will auto-populate. This can be changed if preferred.
-9. Click the button with the Play Arrow to begin the process.
-10. Accept the Nexusmods API request if asked.
-11. When Wabbajack completes you will see either a green **Installation Complete** screen or a red **Installation Failed** screen. If successful, proceed.
+7. The downloads location will auto-populate. This can be changed if preferred.
+8. Click the button with the Play Arrow to begin the process.
+9. Accept the Nexusmods API request if asked.
+10. When Wabbajack completes you will see either a green **Installation Complete** screen or a red **Installation Failed** screen. If successful, proceed.
 
 ## POST INSTALLATION INSTRUCTIONS
 
