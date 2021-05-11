@@ -46,6 +46,11 @@
 3. Copy all files in this folder and paste it into your Fallout New Vegas folder ("GOG/Games/Fallout New Vegas" or "steam/steamapps/common/Fallout New Vegas").
    * **COPY _ONLY_ THE FILES IN THE "GAME FOLDER FILES" FOLDER.**
 4. Right-click on **FalloutNVpatch.exe** and run as admin. Press Enter when finished.
+5. Open the folder **NVHR**.
+6. Start **cpu_info.exe**.
+7. Open the folder that **cpu_info.exe** tells you.
+8. Copy **d3dx9_38.dll** to your Fallout New Vegas folder.
+9. Delete the folder **NVHR**.
 
 ## BEFORE YOU BEGIN PLAYING
 
@@ -53,7 +58,7 @@
   * **Viva New Vegas - Full** which is the default profile and made for first time playing.
   * **Viva New Vegas - Hardcore** for people who want the gritty apocalypse experience.
   * **Viva New Vegas - Base** for who wants to use VNV as a modding or mod creation base.
-    * It's recommended to download the <a href="https://www.nexusmods.com/newvegas/mods/64888?tab=files">4GB patched GECK</a> but it gets marked as an false positive by Windows Defender.
+    * It's recommended to download the [4GB patched GECK](https://www.nexusmods.com/newvegas/mods/64888?tab=files) but it gets marked as an false positive by Windows Defender.
 * Launch the game using the **New Vegas** option in MO2.
 * On the left panel is a mod entitled **lStewieAI's Tweaks** - this is a file loaded with options that change how the game plays and crucial engine level fixes. If you are happy with how the game plays you won't need to touch anything in this mod. Otherwise, you can look through the ini in this mod and enable or disable tweaks and quality of life changes as you see fit.
 
@@ -67,4 +72,4 @@
 
 This modlist tries to be as customizable as possible, while fixing as many bugs as possible. Check [Mods to Avoid](https://vivanewvegas.github.io/avoid-mods.html).
 
-#### This readme is based off of [Starstruck Courier's readme](https://github.com/Kaethela/Starstruck-Courier/blob/main/README.md).
+##### This readme is based off of [Starstruck Courier's readme](https://github.com/Kaethela/Starstruck-Courier/blob/main/README.md).
