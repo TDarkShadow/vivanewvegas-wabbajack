@@ -59,6 +59,8 @@
   * **Viva New Vegas - Hardcore** for people who want the gritty apocalypse experience.
   * **Viva New Vegas - Base** for who wants to use VNV as a modding or mod creation base.
     * It's recommended to download the [4GB patched GECK](https://www.nexusmods.com/newvegas/mods/64888?tab=files) but it gets marked as an false positive by Windows Defender.
+* Once you have selected the profile you want to use, open the **INI Editor** ![INI Editor](mo2ini.png), go to tab **falloutcustom.ini** and change **iNumHWThreads=2** to the amount of your system logical processors.
+  * If you do not know how many logical processors your CPU has, use [this method](https://support.microsoft.com/en-us/windows/find-out-how-many-cores-your-processor-has-3126ef99-0247-33b3-81fc-065e9fb0c35b) to find out.
 * Launch the game using the **New Vegas** option in MO2.
 * On the left panel is a mod entitled **lStewieAI's Tweaks** - this is a file loaded with options that change how the game plays and crucial engine level fixes. If you are happy with how the game plays you won't need to touch anything in this mod. Otherwise, you can look through the ini in this mod and enable or disable tweaks and quality of life changes as you see fit.
 
