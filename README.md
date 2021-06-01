@@ -153,7 +153,7 @@ When this Modlist receives an update, please check the Changelog before doing an
 
 You can circumvent this behavior by renaming the mod with the prefix **[NoDelete]**. For example, you've added a mod named **[SAMURAI Floating Damage](https://www.nexusmods.com/newvegas/mods/71618)**. In MO2, renamed the mod name to **[NoDelete] SAMURAI Floating Damage** so Wabbajack doesn't remove the mod when updating / reinstalling the modlist.
 
-Updating is the same installing. You only have to make sure that you select the same path and tick the **Overwrite Existing Modlist** checkbox in Wabbajack.
+Updating is the same as installing. You only have to make sure that you select the same path and tick the **Overwrite Existing Modlist** checkbox in Wabbajack.
 
 ## BEFORE YOU BEGIN PLAYING
 
@@ -216,7 +216,7 @@ iSize H=1440
 
 ### Why didn't I get any DLC pop-ups / items after starting a new game?
 
-[Simple DLC Delay](https://www.nexusmods.com/newvegas/mods/62779) prevents the DLC pop-ups from showing until you reach a certain level, or the starting location for the DLC.
+[Simple DLC Delay](https://www.nexusmods.com/newvegas/mods/62779) prevents the DLC pop-ups from showing until you reach a certain level or the starting location for the DLC.
 <details>
   <summary>Dead Money</summary>
 
@@ -242,7 +242,7 @@ iSize H=1440
   Or go to [Canyon Wreckage](https://fallout.fandom.com/wiki/Canyon_wreckage).
 </details>
 
-[GRA Unique Weapons Relocated](https://www.nexusmods.com/newvegas/mods/68153) moves all unique weapons of Gun Runners' Arsenal to the diverse locations throughout the game.
+[GRA Unique Weapons Relocated](https://www.nexusmods.com/newvegas/mods/68153) moves all unique weapons of Gun Runners' Arsenal to diverse locations throughout the game.
 
 <details>
   <summary>Bozar</summary>
@@ -340,20 +340,20 @@ iSize H=1440
 
 ### Why isn't XYZ mod in the list?
 
-This modlist tries to be as customizable as possible, while fixing as many bugs as possible. That being said, check [Mods to Avoid](https://vivanewvegas.github.io/avoid-mods.html) what mods you should avoid, aswell for some suggestions what you can add.
+This modlist tries to be as customizable as possible while also fixing as many bugs as possible. That being said, check [Mods to Avoid](https://vivanewvegas.github.io/avoid-mods.html) to find out what mods you should avoid and suggestions for potential replacements of same.
 
 ### I have a bug / question!
 
-Ask it in the [Viva New Vegas Discord](https://discord.gg/DhX5S27). The support channel in the Wabbajack Discord is for installation questions, not support over in-game stuff or suggestions, nor bug reports.
+Ask it in the [Viva New Vegas Discord](https://discord.gg/DhX5S27). The support channel in the Wabbajack Discord is for installation questions, not support for in-game stuff, suggestions, or bug reports.
 
 ### I want to support your work!
 
-I thank you for that thought but you should probably donate to Qolore first. You can find his Patreon [here](https://www.patreon.com/vivanewvegas) or his Paypal [here](https://www.patreon.com/vivanewvegas). If you want to support Wabbajack, link [here](https://www.patreon.com/user/overview?u=11907933).
+I thank you for that thought but you should probably donate to Qolore first. You can find his Patreon [here](https://www.patreon.com/vivanewvegas) or his Paypal [here](https://www.patreon.com/vivanewvegas). If you want to support Wabbajack, go [here](https://www.patreon.com/user/overview?u=11907933).
 
 ## CREDITS AND THANKS
 
 * _YOU_ for actually reading the readme!
-* Qolore for creating such an amazing modguide.
+* Qolore for creating such an amazing mod guide.
 * ALL the mod authors that made the mods featured in this list.
 * Halgari and everyone in the Wabbajack Team.
 * Trawzified, Lively, and Kaethela for guiding me into this endavour.
