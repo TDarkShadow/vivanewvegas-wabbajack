@@ -45,7 +45,7 @@
 
 ## PREPARATION
 
-These steps are only needed if you install this Modlist for the first time. If you are updating the Modlist, jump straight to Updating.
+These steps are only needed if you install this Modlist for the first time. If you are updating the Modlist, jump straight to [UPDATING](#updating).
 
 ### Installing Microsoft Visual C++ Redistributable Package
 
