@@ -2,7 +2,9 @@
 
 ## MODLIST SUMMARY <!-- omit in toc -->
 
- Viva New Vegas is originally a comprehensive modding guide for Fallout New Vegas that will carefully walk you through how to install all the mods you will need for a perfectly stable, smooth, and most importantly, enjoyable experience. The guide is highly accessible for everyone, no matter your modding experience. This modlist functions as a one-click install to have the guide installed and improves Fallout New Vegas with increased performance, many bugfixes, some gameplay improvements, and quality of life extras.
+
+
+ Viva New Vegas is a comprehensive modding guide for Fallout New Vegas that will carefully walk you through how to install all the mods you will need for a perfectly stable, smooth, and most importantly, enjoyable experience. The guide is highly accessible for everyone, no matter your modding experience. You can find the (manual) guide at <https://vivanewvegas.github.io>. This modlist functions as a one-click install to have the guide installed and improves Fallout New Vegas with increased performance, many bugfixes, some gameplay improvements, and quality of life extras.
 
 ## TABLE OF CONTENTS <!-- omit in toc -->
 - [REQUIREMENTS](#requirements)
@@ -28,6 +30,7 @@
   - [How do I fix NPCs "bouncing" when playing above 60 FPS?](#how-do-i-fix-npcs-bouncing-when-playing-above-60-fps)
   - [What steps do I have to take to run the game in an ultrawide resolution?](#what-steps-do-i-have-to-take-to-run-the-game-in-an-ultrawide-resolution)
   - [Why didn't I get any DLC pop-ups / items after starting a new game?](#why-didnt-i-get-any-dlc-pop-ups--items-after-starting-a-new-game)
+  - [I can't find any Gun Runners Arsenal uniques at vendors?](#i-cant-find-any-gun-runners-arsenal-uniques-at-vendors)
   - [Why isn't XYZ mod in the list?](#why-isnt-xyz-mod-in-the-list)
   - [I have a bug / question!](#i-have-a-bug--question)
   - [I want to support your work!](#i-want-to-support-your-work)
@@ -158,14 +161,16 @@ Updating is the same as installing. You only have to make sure that you select t
 ## BEFORE YOU BEGIN PLAYING
 
 * This modlist comes with 3 profiles you can choose to play with.
-  * **Viva New Vegas - Full** which is the default profile and made for first time playing.
-  * **Viva New Vegas - Hardcore** for people who want the gritty apocalypse experience.
-  * **Viva New Vegas - Base** for who wants to use VNV as a modding or mod creation base.
+  * **Viva New Vegas** which is the default profile and made for first time playing.
+  * **Viva Wasted Vegas** for people who want a grittier apocalypse experience.
+  * **Viva Basic Vegas** for who wants to use VNV as a modding or mod creation base.
     * It's recommended to download the [4GB patched GECK](https://www.nexusmods.com/newvegas/mods/64888?tab=files) but it gets marked as an false positive by Windows Defender.
-* Once you have selected the profile you want to use, open the **INI Editor** ![INI Editor](mo2ini.png), go to tab **falloutcustom.ini** and change **iNumHWThreads=2** to the amount of your system logical processors.
-  * If you do not know how many logical processors your CPU has, use [this method](https://support.microsoft.com/en-us/windows/find-out-how-many-cores-your-processor-has-3126ef99-0247-33b3-81fc-065e9fb0c35b) to find out.
+* Once you have selected the profile you want to use, open the **INI Editor** ![INI Editor](mo2ini.png), go to tab **falloutcustom.ini** and change **iNumHWThreads=2** from **2** to the amount of your system logical processors.
+  * If you do not know how many logical processors your CPU has, use [your Task Manager](https://support.microsoft.com/en-us/windows/find-out-how-many-cores-your-processor-has-3126ef99-0247-33b3-81fc-065e9fb0c35b) to find out.
 * Launch the game using the **New Vegas** option in MO2.
 * On the left panel is a mod entitled **lStewieAI's Tweaks** - this is a file loaded with options that change how the game plays and crucial engine level fixes. If you are happy with how the game plays you won't need to touch anything in this mod. Otherwise, you can look through the ini in this mod and enable or disable tweaks and quality of life changes as you see fit.
+  * Axonis, the author of Vanilla UI Plus, has their own [lStewieAI's Tweaks Preset ini](https://www.nexusmods.com/newvegas/mods/67185).
+  * If you create one yourself, make it an additional mod and prefix it with `[NoDelete]` so it doesn't get deleted with you update the modlist.
 
 ## KNOWN ISSUES
 
@@ -175,7 +180,7 @@ Updating is the same as installing. You only have to make sure that you select t
 
 ### The list is down / in maintenance!
 
-Sorry, I'll get it back up asap. In the meantime, you can follow our manual guide at https://vivanewvegas.github.io/ which always get priority updates.
+Sorry, I'll get it back up asap. In the meantime, you can follow our manual guide at <https://vivanewvegas.github.io> which always get priority updates.
 
 ### Why do I get a `Application Load Error 5:0000065434` error message when I try to launch the game?
 
@@ -241,6 +246,26 @@ iSize H=1440
   Radio starts broadcasting at level 20, listen to start the quest.
   Or go to [Canyon Wreckage](https://fallout.fandom.com/wiki/Canyon_wreckage).
 </details>
+
+[JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592) scatters the pre-order pack items (also known as Courier's Stash) to the following locations;
+<details>
+  <summary>Caravan Pack</summary>
+  The items can be found inside [Hell's Motel](https://fallout.fandom.com/wiki/Hell's_Motel).
+</details>
+<details>
+  <summary>Classic Pack</summary>
+  The items can be found inside [Wrecked Highwayman](https://fallout.fandom.com/wiki/Wrecked_Highwayman).
+</details>
+<details>
+  <summary> Mercenary Pack</summary>
+  The items can be found inside [Bradley's shack](https://fallout.fandom.com/wiki/Bradley's_shack).
+</details>
+<details>
+  <summary>Tribal Pack</summary>
+  The items can be found in the house right next to [Lucky Jim Mine](https://fallout.fandom.com/wiki/Lucky_Jim_Mine).
+</details>
+
+### I can't find any Gun Runners Arsenal uniques at vendors?
 
 [GRA Unique Weapons Relocated](https://www.nexusmods.com/newvegas/mods/68153) moves all unique weapons of Gun Runners' Arsenal to diverse locations throughout the game.
 
@@ -318,24 +343,6 @@ iSize H=1440
   <summary>Two-Step Goodbye</summary>
 
   Two-Step Goodbye is on a workbench inside the [Weather Monitoring Station](https://fallout.fandom.com/wiki/Weather_monitoring_station).
-</details>
-
-[JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592) scatters the pre-order pack items (also known as Courier's Stash) to the following locations;
-<details>
-  <summary>Caravan Pack</summary>
-  The items can be found inside [Hell's Motel](https://fallout.fandom.com/wiki/Hell's_Motel).
-</details>
-<details>
-  <summary>Classic Pack</summary>
-  The items can be found inside [Wrecked Highwayman](https://fallout.fandom.com/wiki/Wrecked_Highwayman).
-</details>
-<details>
-  <summary> Mercenary Pack</summary>
-  The items can be found inside [Bradley's shack](https://fallout.fandom.com/wiki/Bradley's_shack).
-</details>
-<details>
-  <summary>Tribal Pack</summary>
-  The items can be found in the house right next to [Lucky Jim Mine](https://fallout.fandom.com/wiki/Lucky_Jim_Mine).
 </details>
 
 ### Why isn't XYZ mod in the list?
