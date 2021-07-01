@@ -141,6 +141,7 @@ This entire Modlist is in English and 99% of all mods you will find are also in 
 2. Open the folder named **Game Folder Files**.
 3. Copy all files in this folder and paste it into your Fallout New Vegas installation folder.
    * **COPY _ONLY_ THE FILES IN THE "GAME FOLDER FILES" FOLDER.**
+   * If asked, let it overwrite everything.
 4. Right-click on **FalloutNVpatch.exe** and run as admin. Press Enter when finished.
 5. Open the folder **NVHR**.
 6. Start **cpu_info.exe**.
@@ -163,7 +164,7 @@ Updating is the same as installing. You only have to make sure that you select t
 * This modlist comes with 3 profiles you can choose to play with.
   * **Viva New Vegas** which is the default profile and made for first time playing.
   * **Viva Wasted Vegas** for people who want a grittier apocalypse experience.
-  * **Viva Basic Vegas** for who wants to use VNV as a modding or mod creation base.
+  * **Viva Basic Vegas** for who wants to use VNV as a lite or mod creation base.
     * It's recommended to download the [4GB patched GECK](https://www.nexusmods.com/newvegas/mods/64888?tab=files) but it gets marked as an false positive by Windows Defender.
 * Once you have selected the profile you want to use, open the **INI Editor** ![INI Editor](mo2ini.png), go to tab **falloutcustom.ini** and change **iNumHWThreads=2** from **2** to the amount of your system logical processors.
   * If you do not know how many logical processors your CPU has, use [your Task Manager](https://support.microsoft.com/en-us/windows/find-out-how-many-cores-your-processor-has-3126ef99-0247-33b3-81fc-065e9fb0c35b) to find out.
