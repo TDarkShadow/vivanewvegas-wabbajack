@@ -21,8 +21,8 @@
 - [MODLIST INSTALLATION](#modlist-installation)
   - [Modlist Installation Instructions](#modlist-installation-instructions)
   - [Post Installation Instructions](#post-installation-instructions)
-- [UPDATING](#updating)
 - [BEFORE YOU BEGIN PLAYING](#before-you-begin-playing)
+- [UPDATING](#updating)
 - [KNOWN ISSUES](#known-issues)
 - [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
   - [The list is down / in maintenance!](#the-list-is-down--in-maintenance)
@@ -95,17 +95,17 @@ This entire Modlist is in English and 99% of all mods you will find are also in 
 
 #### Steam
 
-1. Open **GOG** and go to your **Library**.
-2. Find **Fallout: New Vegas** in the list.
-3. Right-click on it and select **Properties...**.
-4. Click on the **Language** tab and select **English** from the dropdown menu.
-
-#### GOG
-
 1. Open **Steam** and go to your **Library**.
 2. Find **Fallout: New Vegas** in the list.
 3. Right-click on it and select **Manage Installation** -> **Configure...**.
 4. Next to **Language**, select **English** from the dropdown menu.
+
+#### GOG
+
+1. Open **GOG** and go to your **Library**.
+2. Find **Fallout: New Vegas** in the list.
+3. Right-click on it and select **Properties...**.
+4. Click on the **Language** tab and select **English** from the dropdown menu.
 
 ### Pre Modlist Installation Instructions
 
@@ -127,13 +127,16 @@ This entire Modlist is in English and 99% of all mods you will find are also in 
 2. Create a new folder anywhere that is **NOT** under C:\Program Files, C:\Users or C:\Windows.
 3. Place the downloaded Wabbajack.exe into this folder.
 4. Run Wabbajack.exe.
-5. Locate **Viva New Vegas** on the gallery and click the down arrow to download the modlist file.
-6. In **Installation Location** select an empty folder that is **NOT** under C:\Program Files, C:\Users or C:\Windows.
-   * **DO NOT INSTALL THIS LIST INTO YOUR STEAM GAME PATH OR THE FOLDER WITH THE WABBAJACK EXE.**
-7. The downloads location will auto-populate. This can be changed if preferred.
-8. Click the button with the Play Arrow to begin the process.
-9. Accept the Nexusmods API request if asked.
-10. When Wabbajack completes you will see either a green **Installation Complete** screen or a red **Installation Failed** screen. If successful, proceed.
+5. 
+6. Locate **Viva New Vegas** on the gallery and click the down arrow to download the modlist file.
+7. In **Installation Location** select an empty folder that is **NOT** under C:\Program Files, C:\Users or C:\Windows.
+   * Do **not** install this list in your **Steam**, **Fallout New Vegas** folder or the folder with **Wabbajack.exe**.
+8. The downloads location will auto-populate. This can be changed if preferred.
+9. Click the button with the Play Arrow to begin the process.
+10. Accept the Nexusmods API request if asked.
+11. Wabbajack will now automatically download and install every necessary mod.
+    * If you don't have Nexus Premium, you'll have to manually click download for all the mods, but Wabbajack will still install them.
+1.  When Wabbajack completes you will see either a green **Installation Complete** screen or a red **Installation Failed** screen. If successful, proceed.
 
 ### Post Installation Instructions
 
@@ -149,6 +152,21 @@ This entire Modlist is in English and 99% of all mods you will find are also in 
 8. Copy **d3dx9_38.dll** to your Fallout New Vegas folder.
 9. Delete the folder **NVHR**.
 
+## BEFORE YOU BEGIN PLAYING
+
+* This modlist comes with 3 profiles you can choose to play with.
+  * **Viva New Vegas** which is the default profile and made for first time playing.
+  * **Viva Wasted Vegas** for people who want a grittier apocalypse experience.
+  * **Viva Basic Vegas** for who wants to use VNV as a lite or mod creation base.
+    * It's recommended to download the [4GB patched GECK](https://www.nexusmods.com/newvegas/mods/64888?tab=files) but it gets marked as an false positive by Windows Defender.
+  * You can switch between profiles by using Mod Organizer 2, found in the Viva New Vegas folder, top-left.
+* Once you have selected the profile you want to use, open the **INI Editor** ![INI Editor](mo2ini.png), go to tab **falloutcustom.ini** and change **iNumHWThreads=2** from **2** to the amount of your system logical processors.
+  * If you do not know how many logical processors your CPU has, use [your Task Manager](https://support.microsoft.com/en-us/windows/find-out-how-many-cores-your-processor-has-3126ef99-0247-33b3-81fc-065e9fb0c35b) to find out.
+* Launch the game using the **New Vegas** option in MO2.
+* On the left panel is a mod entitled **lStewieAI's Tweaks** - this is a file loaded with options that change how the game plays and crucial engine level fixes. If you are happy with how the game plays you won't need to touch anything in this mod. Otherwise, you can look through the ini in this mod and enable or disable tweaks and quality of life changes as you see fit.
+  * Axonis, the author of Vanilla UI Plus, has their own [lStewieAI's Tweaks Preset ini](https://www.nexusmods.com/newvegas/mods/67185).
+  * If you create one yourself, make it an additional mod and prefix it with `[NoDelete]` so it doesn't get deleted with you update the modlist.
+
 ## UPDATING
 
 When this Modlist receives an update, please check the Changelog before doing anything. Always backup your saves. Start a new game after updating, if noted in the Changelog.
@@ -158,20 +176,6 @@ When this Modlist receives an update, please check the Changelog before doing an
 You can circumvent this behavior by renaming the mod with the prefix **[NoDelete]**. For example, you've added a mod named **[SAMURAI Floating Damage](https://www.nexusmods.com/newvegas/mods/71618)**. In MO2, renamed the mod name to **[NoDelete] SAMURAI Floating Damage** so Wabbajack doesn't remove the mod when updating / reinstalling the modlist.
 
 Updating is the same as installing. You only have to make sure that you select the same path and tick the **Overwrite Existing Modlist** checkbox in Wabbajack.
-
-## BEFORE YOU BEGIN PLAYING
-
-* This modlist comes with 3 profiles you can choose to play with.
-  * **Viva New Vegas** which is the default profile and made for first time playing.
-  * **Viva Wasted Vegas** for people who want a grittier apocalypse experience.
-  * **Viva Basic Vegas** for who wants to use VNV as a lite or mod creation base.
-    * It's recommended to download the [4GB patched GECK](https://www.nexusmods.com/newvegas/mods/64888?tab=files) but it gets marked as an false positive by Windows Defender.
-* Once you have selected the profile you want to use, open the **INI Editor** ![INI Editor](mo2ini.png), go to tab **falloutcustom.ini** and change **iNumHWThreads=2** from **2** to the amount of your system logical processors.
-  * If you do not know how many logical processors your CPU has, use [your Task Manager](https://support.microsoft.com/en-us/windows/find-out-how-many-cores-your-processor-has-3126ef99-0247-33b3-81fc-065e9fb0c35b) to find out.
-* Launch the game using the **New Vegas** option in MO2.
-* On the left panel is a mod entitled **lStewieAI's Tweaks** - this is a file loaded with options that change how the game plays and crucial engine level fixes. If you are happy with how the game plays you won't need to touch anything in this mod. Otherwise, you can look through the ini in this mod and enable or disable tweaks and quality of life changes as you see fit.
-  * Axonis, the author of Vanilla UI Plus, has their own [lStewieAI's Tweaks Preset ini](https://www.nexusmods.com/newvegas/mods/67185).
-  * If you create one yourself, make it an additional mod and prefix it with `[NoDelete]` so it doesn't get deleted with you update the modlist.
 
 ## KNOWN ISSUES
 
@@ -352,7 +356,9 @@ This modlist tries to be as customizable as possible while also fixing as many b
 
 ### I have a bug / question!
 
-Ask it in the [Viva New Vegas Discord](https://discord.gg/DhX5S27). The support channel in the Wabbajack Discord is for installation questions, not support for in-game stuff, suggestions, or bug reports.
+For installation issues, ask about it in the [Wabbajack Discord](https://discord.gg/wabbajack) Server. Usually it means some mod become unavailable or there is some other Wabbajack specific issues.
+
+For in-game issues, suggestions, or bug reports, go to the [Viva New Vegas Discord](https://discord.gg/DhX5S27) server.
 
 ### I want to support your work!
 
