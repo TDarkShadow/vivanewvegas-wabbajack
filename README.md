@@ -123,20 +123,19 @@ This entire Modlist is in English and 99% of all mods you will find are also in 
 
 ### Modlist Installation Instructions
 
-1. Download the latest version of Wabbajack.
+1. Download [Wabbajack](https://www.wabbajack.org/).
 2. Create a new folder anywhere that is **NOT** under C:\Program Files, C:\Users or C:\Windows.
 3. Place the downloaded Wabbajack.exe into this folder.
 4. Run Wabbajack.exe.
-5. 
-6. Locate **Viva New Vegas** on the gallery and click the down arrow to download the modlist file.
-7. In **Installation Location** select an empty folder that is **NOT** under C:\Program Files, C:\Users or C:\Windows.
+5. Locate **Viva New Vegas** on the gallery and click the down arrow to download the modlist file.
+6. In **Installation Location** select an empty folder that is **NOT** under C:\Program Files, C:\Users or C:\Windows.
    * Do **not** install this list in your **Steam**, **Fallout New Vegas** folder or the folder with **Wabbajack.exe**.
-8. The downloads location will auto-populate. This can be changed if preferred.
-9. Click the button with the Play Arrow to begin the process.
-10. Accept the Nexusmods API request if asked.
-11. Wabbajack will now automatically download and install every necessary mod.
+7. The downloads location will auto-populate. This can be changed if preferred.
+8. Click the button with the Play Arrow to begin the process.
+9.  Accept the Nexusmods API request if asked.
+10. Wabbajack will now automatically download and install every necessary mod.
     * If you don't have Nexus Premium, you'll have to manually click download for all the mods, but Wabbajack will still install them.
-1.  When Wabbajack completes you will see either a green **Installation Complete** screen or a red **Installation Failed** screen. If successful, proceed.
+11. When Wabbajack completes you will see either a green **Installation Complete** screen or a red **Installation Failed** screen. If successful, proceed.
 
 ### Post Installation Instructions
 
