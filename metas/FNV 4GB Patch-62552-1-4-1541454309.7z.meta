@@ -1,0 +1,19 @@
+[General]
+gameName=FalloutNV
+modID=62552
+fileID=1000050027
+url=
+name=FNV 4GB Patch
+description=4GB Patcher and source code
+modName=FNV 4GB Patcher
+version=1.4.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=59
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true

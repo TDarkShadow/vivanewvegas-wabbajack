@@ -8,4 +8,6 @@ wjcompile.local.ini
 *-old.*
 
 # Ignore zipped files
+*.7z
+*.rar
 *.zip
