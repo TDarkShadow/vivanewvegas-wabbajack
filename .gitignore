@@ -1,0 +1,11 @@
+# Ignore compiled Wabbajack file
+*.wabbajack
+
+# Ignore local compilation file
+wjcompile.local.ini
+
+# Ignore old comparison files
+*-old.*
+
+# Ignore zipped files
+*.zip
