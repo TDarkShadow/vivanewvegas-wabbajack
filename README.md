@@ -2,11 +2,10 @@
 
 ## MODLIST SUMMARY <!-- omit in toc -->
 
-
-
  Viva New Vegas is a comprehensive modding guide for Fallout New Vegas that will carefully walk you through how to install all the mods you will need for a perfectly stable, smooth, and most importantly, enjoyable experience. The guide is highly accessible for everyone, no matter your modding experience. You can find the (manual) guide at <https://vivanewvegas.github.io>. This modlist functions as a one-click install to have the guide installed and improves Fallout New Vegas with increased performance, many bugfixes, some gameplay improvements, and quality of life extras.
 
 ## TABLE OF CONTENTS <!-- omit in toc -->
+
 - [REQUIREMENTS](#requirements)
 - [PREPARATION](#preparation)
   - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -29,6 +28,7 @@
   - [Why do I get a `Application Load Error 5:0000065434` error message when I try to launch the game?](#why-do-i-get-a-application-load-error-50000065434-error-message-when-i-try-to-launch-the-game)
   - [How do I fix NPCs "bouncing" when playing above 60 FPS?](#how-do-i-fix-npcs-bouncing-when-playing-above-60-fps)
   - [What steps do I have to take to run the game in an ultrawide resolution?](#what-steps-do-i-have-to-take-to-run-the-game-in-an-ultrawide-resolution)
+  - [I don't like either Stewie Tweaks preset. How can I create my own?](#i-dont-like-either-stewie-tweaks-preset-how-can-i-create-my-own)
   - [Why didn't I get any DLC pop-ups / items after starting a new game?](#why-didnt-i-get-any-dlc-pop-ups--items-after-starting-a-new-game)
   - [I can't find any Gun Runners Arsenal uniques at vendors?](#i-cant-find-any-gun-runners-arsenal-uniques-at-vendors)
   - [Why isn't XYZ mod in the list?](#why-isnt-xyz-mod-in-the-list)
@@ -44,7 +44,7 @@
   * **Acquired through either [GOG](https://www.gog.com/game/fallout_new_vegas_ultimate_edition/) or [Steam](https://store.steampowered.com/sub/13435/).**
 * Around 12 GB of free space.
   * 9,5 GB for Fallout New vegas itself.
-  * 500 MB for the mod downloads.
+  * 0,5 GB for the mod downloads.
   * 1,5 GB for the modlist installation.
 * A [Nexusmods](https://www.nexusmods.com/) account.
   * Nexus Premium is not necessary, but will help to download the modlist faster.
@@ -128,8 +128,8 @@ This entire Modlist is in English and 99% of all mods you will find are also in 
 3. Place the downloaded Wabbajack.exe into this folder.
 4. Run Wabbajack.exe.
 5. Locate **Viva New Vegas** on the gallery and click the down arrow to download the modlist file.
-6. In **Installation Location** select an empty folder that is **NOT** under C:\Program Files, C:\Users or C:\Windows.
-   * Do **not** install this list in your **Steam**, **Fallout New Vegas** folder or the folder with **Wabbajack.exe**.
+6. In **Installation Location** select an empty folder that is **NOT** under `C:\Program Files`, `C:\Users`, or `C:\Windows`.
+   * Do **not** install this list in your **Steam** folder, **Fallout New Vegas** folder or a folder that contains **Wabbajack.exe**.
 7. The downloads location will auto-populate. This can be changed if preferred.
 8. Click the button with the Play Arrow to begin the process.
 9.  Accept the Nexusmods API request if asked.
@@ -162,9 +162,6 @@ This entire Modlist is in English and 99% of all mods you will find are also in 
 * Once you have selected the profile you want to use, open the **INI Editor** ![INI Editor](mo2ini.png), go to tab **falloutcustom.ini** and change **iNumHWThreads=2** from **2** to the amount of your system logical processors.
   * If you do not know how many logical processors your CPU has, use [your Task Manager](https://support.microsoft.com/en-us/windows/find-out-how-many-cores-your-processor-has-3126ef99-0247-33b3-81fc-065e9fb0c35b) to find out.
 * Launch the game using the **New Vegas** option in MO2.
-* On the left panel is a mod entitled **lStewieAI's Tweaks** - this is a file loaded with options that change how the game plays and crucial engine level fixes. If you are happy with how the game plays you won't need to touch anything in this mod. Otherwise, you can look through the ini in this mod and enable or disable tweaks and quality of life changes as you see fit.
-  * Axonis, the author of Vanilla UI Plus, has their own [lStewieAI's Tweaks Preset ini](https://www.nexusmods.com/newvegas/mods/67185).
-  * If you create one yourself, make it an additional mod and prefix it with `[NoDelete]` so it doesn't get deleted with you update the modlist.
 
 ## UPDATING
 
@@ -172,7 +169,7 @@ When this Modlist receives an update, please check the Changelog before doing an
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!** This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
 
-You can circumvent this behavior by renaming the mod with the prefix **[NoDelete]**. For example, you've added a mod named **[SAMURAI Floating Damage](https://www.nexusmods.com/newvegas/mods/71618)**. In MO2, renamed the mod name to **[NoDelete] SAMURAI Floating Damage** so Wabbajack doesn't remove the mod when updating / reinstalling the modlist.
+You can circumvent this behavior by renaming the mod with the prefix **[NoDelete]**. For example, you've added a mod named **[Misc Gameplay Merge](https://www.nexusmods.com/newvegas/mods/73921)**. In MO2, rename the mod name to **[NoDelete] Misc Gameplay Merge** so Wabbajack doesn't remove the mod when updating / reinstalling the modlist.
 
 Updating is the same as installing. You only have to make sure that you select the same path and tick the **Overwrite Existing Modlist** checkbox in Wabbajack.
 
@@ -188,7 +185,8 @@ Sorry, I'll get it back up asap. In the meantime, you can follow our manual guid
 
 ### Why do I get a `Application Load Error 5:0000065434` error message when I try to launch the game?
 
-Run your game directly through Steam once. You may also need to restart Steam and/or your PC.
+Run your game directly through Steam once.  
+You may also need to restart Steam and/or your PC.
 
 ### How do I fix NPCs "bouncing" when playing above 60 FPS?
 
@@ -222,6 +220,20 @@ iSize H=1440
 5. Right-click on **lStewieAl's Tweaks - Custom INI** mod (from Bug Fixes/QOL) in the left pane of MO2 and select **Open in Explorer**.
 6. Navigate to `nvse/plugins/` and open **nvse_stewie_tweaks.ini** in a text editor.
 7. Set `bUltrawideSupport` to `1`.
+
+### I don't like either Stewie Tweaks preset. How can I create my own?
+
+1. Go to your Viva New Vegas installation folder.
+2. Right-click on **lStewieAl's Tweaks - VNV INI** or **Wasted INI**.
+3. Click on **Copy**.
+4. Right-click on an empty space in the folder and click **Paste**.
+5. A new folder has been made with the same name but ending in "**- Copy**".
+6. Rename it to a name of your choice, prefix it with `[NoDelete] ` so it doesn't get deleted with you update the modlist.
+7. Open **MO2** and Enable the mod.
+
+Now any changes you make in the ini file of that mod, or in-game through the Stewie Tweaks settings, will be saved and not deleted whenever you rerun Wabbajack.
+
+* [Axonis](https://www.moddrop.com/fallout-new-vegas/profile/114129), the author of [Vanilla UI Plus](https://www.moddb.com/mods/vanilla-ui-plus), has their own [lStewieAI's Tweaks Preset ini](https://gist.github.com/Saxonis/6f2721d32b35231777941ee21022c1b2).
 
 ### Why didn't I get any DLC pop-ups / items after starting a new game?
 
@@ -261,7 +273,7 @@ iSize H=1440
   The items can be found inside [Wrecked Highwayman](https://fallout.fandom.com/wiki/Wrecked_Highwayman).
 </details>
 <details>
-  <summary> Mercenary Pack</summary>
+  <summary>Mercenary Pack</summary>
   The items can be found inside [Bradley's shack](https://fallout.fandom.com/wiki/Bradley's_shack).
 </details>
 <details>
@@ -355,13 +367,15 @@ This modlist tries to be as customizable as possible while also fixing as many b
 
 ### I have a bug / question!
 
-For installation issues, ask about it in the [Wabbajack Discord](https://discord.gg/wabbajack) Server. Usually it means some mod become unavailable or there is some other Wabbajack specific issues.
+For installation issues, ask about it in the [Wabbajack Discord](https://discord.gg/wabbajack) Server. Usually it means some mod became unavailable or there is some other Wabbajack specific issue.
 
 For in-game issues, suggestions, or bug reports, go to the [Viva New Vegas Discord](https://discord.gg/DhX5S27) server.
 
 ### I want to support your work!
 
-I thank you for that thought but you should probably donate to Qolore first. You can find his Patreon [here](https://www.patreon.com/vivanewvegas) or his Paypal [here](https://www.patreon.com/vivanewvegas). If you want to support Wabbajack, go [here](https://www.patreon.com/user/overview?u=11907933).
+I thank you for that thought but you should probably donate to Qolore first.  
+You can find his Patreon [here](https://www.patreon.com/vivanewvegas) or his Paypal [here](https://www.patreon.com/vivanewvegas).  
+If you want to support Wabbajack, go [here](https://www.patreon.com/user/overview?u=11907933).
 
 ## CREDITS AND THANKS
 
