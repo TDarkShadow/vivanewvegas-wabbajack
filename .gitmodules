@@ -1,0 +1,3 @@
+[submodule "WabbaScripts"]
+	path = WabbaScripts
+	url = https://github.com/TDarkShadow/WabbaScripts.git
