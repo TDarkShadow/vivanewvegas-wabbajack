@@ -29,6 +29,7 @@
   - [How do I fix NPCs "bouncing" when playing above 60 FPS?](#how-do-i-fix-npcs-bouncing-when-playing-above-60-fps)
   - [What steps do I have to take to run the game in an ultrawide resolution?](#what-steps-do-i-have-to-take-to-run-the-game-in-an-ultrawide-resolution)
   - [I don't like either Stewie Tweaks preset. How can I create my own?](#i-dont-like-either-stewie-tweaks-preset-how-can-i-create-my-own)
+  - [I don't like VNV's Just Assorted Mods preset. How can I create my own?](#i-dont-like-vnvs-just-assorted-mods-preset-how-can-i-create-my-own)
   - [Why didn't I get any DLC pop-ups / items after starting a new game?](#why-didnt-i-get-any-dlc-pop-ups--items-after-starting-a-new-game)
   - [I can't find any Gun Runners Arsenal uniques at vendors?](#i-cant-find-any-gun-runners-arsenal-uniques-at-vendors)
   - [Why isn't XYZ mod in the list?](#why-isnt-xyz-mod-in-the-list)
@@ -229,11 +230,25 @@ iSize H=1440
 4. Right-click on an empty space in the folder and click **Paste**.
 5. A new folder has been made with the same name but ending in "**- Copy**".
 6. Rename it to a name of your choice, prefix it with `[NoDelete] ` so it doesn't get deleted with you update the modlist.
-7. Open **MO2** and Enable the mod.
+   * For example, `[NoDelete] lStewieAl's Tweaks - Custom INI`
+8. Open **MO2** and Enable the mod.
 
 Now any changes you make in the ini file of that mod, or in-game through the Stewie Tweaks settings, will be saved and not deleted whenever you rerun Wabbajack.
 
 * [Axonis](https://www.moddrop.com/fallout-new-vegas/profile/114129), the author of [Vanilla UI Plus](https://www.moddb.com/mods/vanilla-ui-plus), has their own [lStewieAI's Tweaks Preset ini](https://gist.github.com/Saxonis/6f2721d32b35231777941ee21022c1b2).
+
+### I don't like VNV's Just Assorted Mods preset. How can I create my own?
+
+1. Go to your Viva New Vegas installation folder.
+2. Right-click on **JAM - Just Assorted Mods - VNV INI**.
+3. Click on **Copy**.
+4. Right-click on an empty space in the folder and click **Paste**.
+5. A new folder has been made with the same name but ending in "**- Copy**".
+6. Rename it to a name of your choice, prefix it with `[NoDelete] ` so it doesn't get deleted with you update the modlist.
+   * For example, `[NoDelete] - JAM - Just Assorted Mods - Custom INI`
+7. Open **MO2** and Enable the mod.
+
+Now any changes you make in the ini file of that mod, or in-game through the Mod Configuration > Just Mods settings, will be saved and not deleted whenever you rerun Wabbajack.
 
 ### Why didn't I get any DLC pop-ups / items after starting a new game?
 
