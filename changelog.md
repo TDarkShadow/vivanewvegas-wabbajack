@@ -1,5 +1,6 @@
 # Changelog
 
+- [1.3.0](#130)
 - [1.2.12](#1212)
 - [1.2.10](#1210)
 - [1.2.9](#129)
@@ -13,6 +14,62 @@
 - [1.2.2](#122)
 - [1.2.1](#121)
 - [1.2.0](#120)
+
+
+## 1.3.0
+
+**Build at:** `05/11/2021 00:50:47`
+
+**Info**:
+
+- Download Size change: 30,5MB (Total: 523,9MB)
+- Install Size change: -415,1MB (Total: 1,9GB)
+
+**Download Changes**:
+
+- Updated [Altitude - A Vanilla Plus Weather Mod](https://www.nexusmods.com/newvegas/mods/71404/?tab=files&file_id=1000083099)
+- Updated [Altitude - A Vanilla Plus Weather Mod](https://www.nexusmods.com/newvegas/mods/71404/?tab=files&file_id=1000083323)
+- Updated [Better Character Creation](https://www.nexusmods.com/newvegas/mods/70973/?tab=files&file_id=1000083320)
+- Updated [The Living Desert - Travelers Patrols Consequences Increased Population and more](https://www.nexusmods.com/newvegas/mods/64623/?tab=files&file_id=1000082987)
+- Updated [lStewieAl's Tweaks](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000083369)
+- Updated [Simple Interior Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/71390/?tab=files&file_id=1000082095)
+- Removed [Altitude - A Vanilla Plus Weather Mod](https://www.nexusmods.com/newvegas/mods/71404/?tab=files&file_id=1000078975)
+- Removed [Better Character Creation](https://www.nexusmods.com/newvegas/mods/70973/?tab=files&file_id=1000080872)
+- Removed [Economy Overhaul](https://www.nexusmods.com/newvegas/mods/62899/?tab=files&file_id=1000073340)
+- Removed [Follower Formula Redone](https://www.nexusmods.com/newvegas/mods/71490/?tab=files&file_id=1000081492)
+- Removed [GRA Unique Weapons Relocated](https://www.nexusmods.com/newvegas/mods/68153/?tab=files&file_id=1000072126)
+- Removed [Mobile Truck Base Remastered](https://www.nexusmods.com/newvegas/mods/71536/?tab=files&file_id=1000073112)
+- Removed [New Vegas Redesigned 2 Revised](https://www.nexusmods.com/newvegas/mods/71556/?tab=files&file_id=1000077453)
+- Removed [Simple Interior Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/71390/?tab=files&file_id=1000081486)
+- Removed [The Living Desert - Travelers Patrols Consequences Increased Population and more](https://www.nexusmods.com/newvegas/mods/64623/?tab=files&file_id=1000074354)
+- Removed [Vanilla LOD.7z](https://drive.google.com/uc?id=1lznQ6JB8093BUrLsXR5jKK_x-INB7fX2&export=download)
+- Removed [JSawyer Ultimate Edition Custom INI.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/0c51c7d2253c97ed8a96fe926a56c0aecca43d87/JSawyer%20Ultimate%20Edition%20Custom%20INI.7z)
+- Removed [lStewieAl's Tweaks](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000082003)
+- Removed [Real Recoil Custom INI.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/8f4f94589c3115b68462babfc6b0fe18a6efb791/Real%20Recoil%20Custom%20INI.7z)
+- Removed [Better Ghouls - No Roar Animation](https://www.nexusmods.com/newvegas/mods/71101/?tab=files&file_id=1000071465)
+- Removed [Complex Vendors](https://www.nexusmods.com/newvegas/mods/71512/?tab=files&file_id=1000082243)
+- Added [Essential DLC Enhancements Merged](https://www.nexusmods.com/newvegas/mods/73803/?tab=files&file_id=1000082594)
+- Added [JSawyer Ultimate Edition Patches](https://www.nexusmods.com/newvegas/mods/62933/?tab=files&file_id=1000074513)
+- Added [JSawyer Ultimate Edition Tweaks.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/0c045987b34f70ef5ae2fa34c67b4663fe4b16d1/JSawyer%20Ultimate%20Edition%20Tweaks.7z)
+- Added [Laser Weapon Iron Sights](https://www.nexusmods.com/newvegas/mods/70790/?tab=files&file_id=1000078598)
+- Added [Misc Gameplay Merge](https://www.nexusmods.com/newvegas/mods/73921/?tab=files&file_id=1000083156)
+- Added [Misc Gameplay Merge](https://www.nexusmods.com/newvegas/mods/73921/?tab=files&file_id=1000082118)
+- Added [Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660/?tab=files&file_id=1000074511)
+- Added [Mojave Raiders Tweaks.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/12e2b50f3765a6c0c57e28e50d4641faed926203/Mojave%20Raiders%20Tweaks.7z)
+- Added [NPCs Sprint In Combat](https://www.nexusmods.com/newvegas/mods/68179/?tab=files&file_id=1000077451)
+- Added [Laser Weapon Iron Sights](https://www.nexusmods.com/newvegas/mods/70790/?tab=files&file_id=1000078300)
+- Added [Player Combat Priority](https://www.nexusmods.com/newvegas/mods/71699/?tab=files&file_id=1000073367)
+- Added [Real Recoil Tweaks.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/54a2657af224d7cdf240415001da4174645a0947/Real%20Recoil%20Tweaks.7z)
+- Added [Uncut Wasteland Tweaks.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/60138ed87ad89a45e386d6f9155094a6f3e7a0fa/Uncut%20Wasteland%20Tweaks.7z)
+- Added [VNV LODGenOutput.7z](https://authored-files.wabbajack.org/VNV LODGenOutput.7z_6e3d3854-9f64-43b6-ab4b-bfc7c89997a2)
+- Added [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833/?tab=files&file_id=1000065777)
+- Added [JIP LN Overhauls INI.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/106649ea65e4052429465098a9fb2cd47dbbd652/JIP%20LN%20Overhauls%20INI.7z)
+- Added [Anniversary Anim Pack - General Bugfix](https://www.nexusmods.com/newvegas/mods/72320/?tab=files&file_id=1000076296)
+- Added [Anniversary Anim Pack - General Bugfix](https://www.nexusmods.com/newvegas/mods/72320/?tab=files&file_id=1000077351)
+- Added [Consistent Pip-Boy Icons](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000080529)
+- Added [Laser Weapon Iron Sights](https://www.nexusmods.com/newvegas/mods/70790/?tab=files&file_id=1000070317)
+- Added [Laser Weapon Iron Sights](https://www.nexusmods.com/newvegas/mods/70790/?tab=files&file_id=1000078301)
+- Added [Stewie's Tweaks Overhauls INI.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/106649ea65e4052429465098a9fb2cd47dbbd652/Stewie's%20Tweaks%20Overhauls%20INI.7z)
 
 
 ## 1.2.12
