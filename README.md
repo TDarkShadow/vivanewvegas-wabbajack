@@ -142,7 +142,7 @@ This entire Modlist is in English and 99% of all mods you will find are also in 
 
 1. Navigate to the Viva New Vegas installation folder.
 2. Open the folder named **Game Folder Files**.
-3. Copy all files in this folder and paste it into your Fallout New Vegas installation folder.
+3. Copy all files in this folder and paste them into your Fallout New Vegas installation folder.
    * **COPY _ONLY_ THE FILES IN THE "GAME FOLDER FILES" FOLDER.**
    * If asked, let it overwrite everything.
 4. Right-click on **FalloutNVpatch.exe** and run as admin. Press Enter when finished.
