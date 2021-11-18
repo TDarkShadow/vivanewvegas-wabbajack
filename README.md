@@ -9,13 +9,13 @@
 - [REQUIREMENTS](#requirements)
 - [PREPARATION](#preparation)
   - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
-  - [Uninstalling the game](#uninstalling-the-game)
-    - [Steam](#steam)
-    - [GOG](#gog)
-  - [Making a new Steam Library](#making-a-new-steam-library)
   - [Set the Game language to English](#set-the-game-language-to-english)
+    - [GOG Galaxy](#gog-galaxy)
+    - [Steam](#steam)
+  - [Clean slate](#clean-slate)
+    - [GOG Galaxy](#gog-galaxy-1)
     - [Steam](#steam-1)
-    - [GOG](#gog-1)
+      - [Making a new Steam Library](#making-a-new-steam-library)
   - [Pre Modlist Installation Instructions](#pre-modlist-installation-instructions)
 - [MODLIST INSTALLATION](#modlist-installation)
   - [Modlist Installation Instructions](#modlist-installation-instructions)
@@ -58,9 +58,42 @@ These steps are only needed if you install this Modlist for the first time. If y
 
 You likely already have this installed, but in case you haven't. This package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
-### Uninstalling the game
+### Set the Game language to English
 
-If you have the game installed under `C:\Program Files\`, `C:\Program Files (x86)\`, your Desktop, or your Documents folders, follow these steps to remove it.
+This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and support will not be given to people with a non-English game.
+
+#### GOG Galaxy
+
+1. Open **GOG Galaxy** and go to your **Owned games**.
+2. Find **Fallout: New Vegas Ultimate Edition** in the list.
+3. Right-click on it and select **Manage Installation** -> **Configure...**.
+4. Next to **Language**, select **English** from the dropdown menu.
+5. Click on **OK** in the bottom-right corner.
+
+#### Steam
+
+1. Open **Steam** and go to your **Library**.
+2. Find **Fallout: New Vegas** in the list.
+3. Right-click on it and select **Properties...**.
+4. Click on the **Language** tab and select **English** from the dropdown menu.
+5. Click on the cross icon in the top-right corner.
+
+### Clean slate
+
+If you have modded Fallout New Vegas before, or have the game installed under `C:\Program Files\`, `C:\Program Files (x86)\`, `C:\Users\` or `C:\Windows\`, follow these steps to reinstall it.
+
+#### GOG Galaxy
+
+1. Open **GOG Galaxy** and go to your **Owned games**.
+2. Find **Fallout: New Vegas Ultimate Edition** in the list.
+3. Right-click on it and select **Manage Installation** -> **Uninstall**.
+4. Navigate to where the game was installed (`GOG Galaxy\Games` by default) and, if present, delete the **Fallout New Vegas** folder.
+5. Open **GOG Galaxy** again and go to your **Owned games**.
+6. Find **Fallout: New Vegas Ultimate Edition** in the list.
+7. Right-click on it and select **Manage Installation** -> **Install**.
+   * If the location shown falls under `C:\Program Files\`, `C:\Program Files (x86)\`, `C:\Users\` or `C:\Windows\`, click on it then **Browse**.
+   * Select a location that's outside the afromentioned folder locations. (for example, `C:\Games\GOG\`)
+8. Make sure the language is set on **English** and click on **Install**.
 
 #### Steam
 
@@ -68,15 +101,13 @@ If you have the game installed under `C:\Program Files\`, `C:\Program Files (x86
 2. Find **Fallout: New Vegas** in the list.
 3. Right-click on it and select **Manage** -> **Uninstall**.
 4. Navigate to `Steam\steamapps\common\` and, if present, delete the **Fallout New Vegas** folder.
+5. Open **Steam** and go to your **Library**.
+6. Find **Fallout: New Vegas** in the list.
+7. Right-click on it and select **Manage** -> **Install**.
+   * If the location shown falls under `C:\Program Files\`, `C:\Program Files (x86)\`, `C:\Users\` or `C:\Windows\`, click on **Cancel** and [make a new Steam Library](#making-a-new-steam-library).
+8. Click on **Next** and then on **Finish**.
 
-#### GOG
-
-1. Open **GOG** and go to your **Library**.
-2. Find **Fallout: New Vegas** in the list.
-3. Right-click on it and select **Manage Installation** -> **Uninstall**.
-4. Navigate to where the game was installed (`GOG Galaxy\Games` by default) and, if present, delete the **Fallout New Vegas** folder.
-
-### Making a new Steam Library
+##### Making a new Steam Library
 
 If you already have a Steam library set up outside of any default Windows folder, or you have the game on GOG, skip this step.
 
@@ -89,24 +120,6 @@ A new Steam library needs to be set up to install the game on, as the default li
 4. Exit out of the settings when you are finished.
 
 By default, Steam only allows one library per drive, but there is a workaround. If for example you already have the default Steam library at `C:\Program Files (x86)\Steam`, but still want your game on your `C:\` drive, you will need to follow [these instructions](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to do so.
-
-### Set the Game language to English
-
-This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and support will not be given to people with a non-English game.
-
-#### Steam
-
-1. Open **Steam** and go to your **Library**.
-2. Find **Fallout: New Vegas** in the list.
-3. Right-click on it and select **Manage Installation** -> **Configure...**.
-4. Next to **Language**, select **English** from the dropdown menu.
-
-#### GOG
-
-1. Open **GOG** and go to your **Library**.
-2. Find **Fallout: New Vegas** in the list.
-3. Right-click on it and select **Properties...**.
-4. Click on the **Language** tab and select **English** from the dropdown menu.
 
 ### Pre Modlist Installation Instructions
 
