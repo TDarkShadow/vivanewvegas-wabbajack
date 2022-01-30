@@ -14,8 +14,8 @@
     - [Steam](#steam)
   - [Clean slate](#clean-slate)
     - [GOG Galaxy](#gog-galaxy-1)
-    - [Steam](#steam-1)
       - [Making a new Steam Library](#making-a-new-steam-library)
+    - [Steam](#steam-1)
   - [Pre Modlist Installation Instructions](#pre-modlist-installation-instructions)
 - [MODLIST INSTALLATION](#modlist-installation)
   - [Modlist Installation Instructions](#modlist-installation-instructions)
@@ -95,18 +95,6 @@ If you have modded Fallout New Vegas before, or have the game installed under `C
    * Select a location that's outside the afromentioned folder locations. (for example, `C:\Games\GOG\`)
 8. Make sure the language is set on **English** and click on **Install**.
 
-#### Steam
-
-1. Open **Steam** and go to your **Library**.
-2. Find **Fallout: New Vegas** in the list.
-3. Right-click on it and select **Manage** -> **Uninstall**.
-4. Navigate to `Steam\steamapps\common\` and, if present, delete the **Fallout New Vegas** folder.
-5. Open **Steam** and go to your **Library**.
-6. Find **Fallout: New Vegas** in the list.
-7. Right-click on it and select **Manage** -> **Install**.
-   * If the location shown falls under `C:\Program Files\`, `C:\Program Files (x86)\`, `C:\Users\` or `C:\Windows\`, click on **Cancel** and [make a new Steam Library](#making-a-new-steam-library).
-8. Click on **Next** and then on **Finish**.
-
 ##### Making a new Steam Library
 
 If you already have a Steam library set up outside of any default Windows folder, or you have the game on GOG, skip this step.
@@ -120,6 +108,17 @@ A new Steam library needs to be set up to install the game on, as the default li
 4. Exit out of the settings when you are finished.
 
 By default, Steam only allows one library per drive, but there is a workaround. If for example you already have the default Steam library at `C:\Program Files (x86)\Steam`, but still want your game on your `C:\` drive, you will need to follow [these instructions](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to do so.
+#### Steam
+
+1. Open **Steam** and go to your **Library**.
+2. Find **Fallout: New Vegas** in the list.
+3. Right-click on it and select **Manage** -> **Uninstall**.
+4. Navigate to `Steam\steamapps\common\` and, if present, delete the **Fallout New Vegas** folder.
+5. Open **Steam** and go to your **Library**.
+6. Find **Fallout: New Vegas** in the list.
+7. Right-click on it and select **Manage** -> **Install**.
+   * If the location shown falls under `C:\Program Files\`, `C:\Program Files (x86)\`, `C:\Users\` or `C:\Windows\`, click on **Cancel** and [make a new Steam Library](#making-a-new-steam-library).
+8. Click on **Next** and then on **Finish**.
 
 ### Pre Modlist Installation Instructions
 
