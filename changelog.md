@@ -1,19 +1,64 @@
 # Changelog
 
-- [1.3.0](#130)
-- [1.2.12](#1212)
-- [1.2.10](#1210)
-- [1.2.9](#129)
-- [1.2.8](#128)
-- [1.2.7](#127)
-- [1.2.6](#126)
-- [1.2.5](#125)
-- [1.2.5](#125)
-- [1.2.4](#124)
-- [1.2.3](#123)
-- [1.2.2](#122)
-- [1.2.1](#121)
-- [1.2.0](#120)
+- [Changelog](#changelog)
+  - [1.3.1](#131)
+  - [1.3.0](#130)
+  - [1.2.12](#1212)
+  - [1.2.10](#1210)
+  - [1.2.9](#129)
+  - [1.2.8](#128)
+  - [1.2.7](#127)
+  - [1.2.6](#126)
+  - [1.2.5](#125)
+  - [1.2.5](#125-1)
+  - [1.2.4](#124)
+  - [1.2.3](#123)
+  - [1.2.2](#122)
+  - [1.2.1](#121)
+  - [1.2.0](#120)
+
+
+## 1.3.1
+
+**Build at:** `30/01/2022 20:43:46`
+
+**Info**:
+
+- Download Size change: -1MB (Total: 524,9MB)
+- Install Size change: -4,2MB (Total: 1,9GB)
+
+**Download Changes**:
+
+- Updated [Consistent Pip-Boy Icons](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000080535)
+- Updated [Essential DLC Enhancements Merged](https://www.nexusmods.com/newvegas/mods/73803/?tab=files&file_id=1000086908)
+- Updated [JAM - Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666/?tab=files&file_id=1000086626)
+- Updated [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592/?tab=files&file_id=1000086384)
+- Updated [Laser Weapon Iron Sights](https://www.nexusmods.com/newvegas/mods/70790/?tab=files&file_id=1000086256)
+- Updated [Laser Weapon Iron Sights](https://www.nexusmods.com/newvegas/mods/70790/?tab=files&file_id=1000086259)
+- Updated [Yukichigai Unofficial Patch - YUP](https://www.nexusmods.com/newvegas/mods/51664/?tab=files&file_id=1000085218)
+- Updated [JIP LN NVSE Plugin](https://www.nexusmods.com/newvegas/mods/58277/?tab=files&file_id=1000086609)
+- Updated [NVTF - New Vegas Tick Fix](https://www.nexusmods.com/newvegas/mods/66537/?tab=files&file_id=1000086290)
+- Updated [Consistent Pip-Boy Icons](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000086193)
+- Updated [Vanilla Hud Cleaned](https://www.nexusmods.com/newvegas/mods/70001/?tab=files&file_id=1000086836)
+- Removed [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
+- Removed [nvse_6_2_4.7z](https://github.com/xNVSE/NVSE/releases/download/6.2.4/nvse_6_2_4.7z)
+- Removed [Essential DLC Enhancements Merged](https://www.nexusmods.com/newvegas/mods/73803/?tab=files&file_id=1000082594)
+- Removed [JAM - Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666/?tab=files&file_id=1000079507)
+- Removed [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592/?tab=files&file_id=1000074559)
+- Removed [Laser Weapon Iron Sights](https://www.nexusmods.com/newvegas/mods/70790/?tab=files&file_id=1000078598)
+- Removed [Laser Weapon Iron Sights](https://www.nexusmods.com/newvegas/mods/70790/?tab=files&file_id=1000078300)
+- Removed [Vanilla_UI_Plus_New_Vegas_8.83.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
+- Removed [Yukichigai Unofficial Patch - YUP](https://www.nexusmods.com/newvegas/mods/51664/?tab=files&file_id=1000076677)
+- Removed [lStewieAl's Tweaks](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000083369)
+- Removed [JIP LN NVSE Plugin](https://www.nexusmods.com/newvegas/mods/58277/?tab=files&file_id=1000080718)
+- Removed [JohnnyGuitarNVSE_4.10.7z](https://github.com/carxt/JohnnyGuitarNVSE/releases/download/4.10/JohnnyGuitarNVSE_4.10.7z)
+- Removed [NVTF - New Vegas Tick Fix](https://www.nexusmods.com/newvegas/mods/66537/?tab=files&file_id=1000074545)
+- Removed [Consistent Pip-Boy Icons](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000080529)
+- Added [Mod.Organizer-2.4.4.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z)
+- Added [nvse_6_2_5.7z](https://github.com/xNVSE/NVSE/releases/download/6.2.5/nvse_6_2_5.7z)
+- Added [Vanilla_UI_Plus_New_Vegas_8.86.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
+- Added [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000086672)
+- Added [JohnnyGuitarNVSE-4.45.7z](https://github.com/carxt/JohnnyGuitarNVSE/releases/download/4.45/JohnnyGuitarNVSE-4.45.7z)
 
 
 ## 1.3.0
