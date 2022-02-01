@@ -186,6 +186,8 @@ You can circumvent this behavior by renaming the mod with the prefix **[NoDelete
 
 Updating is the same as installing. You only have to make sure that you select the same path and tick the **Overwrite Existing Modlist** checkbox in Wabbajack.
 
+In the event that an xNVSE or NVHR update is included in a list update, you should repeat the post installation instructions.
+
 ## KNOWN ISSUES
 
 * Loot Menu doesn't work during the character generation quest while you're still in Doc Mitchell's house. This is intended.
