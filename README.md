@@ -25,6 +25,7 @@
 - [KNOWN ISSUES](#known-issues)
 - [FREQUENTLY ASKED QUESTIONS](#frequently-asked-questions)
   - [The list is down / in maintenance!](#the-list-is-down--in-maintenance)
+  - [Unable to download VNV LODGenOutput...](#unable-to-download-vnv-lodgenoutput)
   - [Why do I get a `Application Load Error 5:0000065434` error message when I try to launch the game?](#why-do-i-get-a-application-load-error-50000065434-error-message-when-i-try-to-launch-the-game)
   - [How do I fix NPCs "bouncing" when playing above 60 FPS?](#how-do-i-fix-npcs-bouncing-when-playing-above-60-fps)
   - [What steps do I have to take to run the game in an ultrawide resolution?](#what-steps-do-i-have-to-take-to-run-the-game-in-an-ultrawide-resolution)
@@ -197,6 +198,11 @@ In the event that an xNVSE or NVHR update is included in a list update, you shou
 ### The list is down / in maintenance!
 
 Sorry, I'll get it back up asap. In the meantime, you can follow our manual guide at <https://vivanewvegas.github.io> which always get priority updates.
+
+### Unable to download VNV LODGenOutput...
+
+In case you have trouble downloading the VNV LODGenOutput, you can download it from this Google Drive link and place it in your mod downloads folder;
+https://drive.google.com/drive/folders/16fCa0rtCknEmC6Btb5PEgQpMjiOsLNqv?usp=sharing
 
 ### Why do I get a `Application Load Error 5:0000065434` error message when I try to launch the game?
 
