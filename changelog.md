@@ -1,5 +1,6 @@
 # Changelog
 
+- [1.4.0](#140)
 - [Changelog](#changelog)
   - [1.3.1](#131)
   - [1.3.0](#130)
@@ -16,6 +17,62 @@
   - [1.2.2](#122)
   - [1.2.1](#121)
   - [1.2.0](#120)
+
+
+## 1.4.0
+
+**Build at:** `27/02/2022 02:52:01`
+
+**Info**:
+
+- Download Size change: -307MB (Total: 831,9MB)
+- Install Size change: -587,6MB (Total: 2,4GB)
+
+**Download Changes**:
+
+- Updated [JAM - Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666/?tab=files&file_id=1000087121)
+- Updated [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592/?tab=files&file_id=1000088124)
+- Updated [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592/?tab=files&file_id=1000087172)
+- Updated [Misc Gameplay Merge](https://www.nexusmods.com/newvegas/mods/73921/?tab=files&file_id=1000088355)
+- Updated [Player Combat Priority](https://www.nexusmods.com/newvegas/mods/71699/?tab=files&file_id=1000087236)
+- Updated [Uncut Wasteland](https://www.nexusmods.com/newvegas/mods/56625/?tab=files&file_id=1000085542)
+- Updated [Weapon Mesh Improvement Mod](https://www.nexusmods.com/newvegas/mods/65052/?tab=files&file_id=1000087716)
+- Updated [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000088351)
+- Updated [Simple Interior Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/71390/?tab=files&file_id=1000088181)
+- Updated [JIP LN NVSE Plugin](https://www.nexusmods.com/newvegas/mods/58277/?tab=files&file_id=1000087938)
+- Removed [Altitude - A Vanilla Plus Weather Mod](https://www.nexusmods.com/newvegas/mods/71404/?tab=files&file_id=1000083099)
+- Removed [Altitude - A Vanilla Plus Weather Mod](https://www.nexusmods.com/newvegas/mods/71404/?tab=files&file_id=1000083323)
+- Removed [Consistent Pip-Boy Icons](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000080535)
+- Removed [JAM - Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666/?tab=files&file_id=1000086626)
+- Removed [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592/?tab=files&file_id=1000086384)
+- Removed [JSawyer Ultimate Edition Tweaks.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/0c045987b34f70ef5ae2fa34c67b4663fe4b16d1/JSawyer%20Ultimate%20Edition%20Tweaks.7z)
+- Removed [Laser Weapon Iron Sights](https://www.nexusmods.com/newvegas/mods/70790/?tab=files&file_id=1000086256)
+- Removed [Misc Gameplay Merge](https://www.nexusmods.com/newvegas/mods/73921/?tab=files&file_id=1000083156)
+- Removed [Laser Weapon Iron Sights](https://www.nexusmods.com/newvegas/mods/70790/?tab=files&file_id=1000086259)
+- Removed [Player Combat Priority](https://www.nexusmods.com/newvegas/mods/71699/?tab=files&file_id=1000073367)
+- Removed [The Mod Configuration Menu](https://www.nexusmods.com/newvegas/mods/42507/?tab=files&file_id=105803)
+- Removed [The Mod Configuration Menu](https://www.nexusmods.com/newvegas/mods/42507/?tab=files&file_id=1000001534)
+- Removed [Unfound Loot 1.0rc2 [eddoursul.win].7z](https://eddoursul.win/download/582)
+- Removed [Weapon Mesh Improvement Mod](https://www.nexusmods.com/newvegas/mods/65052/?tab=files&file_id=1000048235)
+- Removed [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000086672)
+- Removed [Simple Interior Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/71390/?tab=files&file_id=1000082095)
+- Removed [Unfound Loot Custom INI.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/b7ac36b2557b0ccb2390a4494d36e7f1025362c5/Unfound%20Loot%20Custom%20INI.7z)
+- Removed [JIP LN NVSE Plugin](https://www.nexusmods.com/newvegas/mods/58277/?tab=files&file_id=1000086609)
+- Removed [JohnnyGuitarNVSE-4.45.7z](https://github.com/carxt/JohnnyGuitarNVSE/releases/download/4.45/JohnnyGuitarNVSE-4.45.7z)
+- Removed [NVTF Custom INI.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/337784c5ce13092b912917b0cce312e12816559f/NVTF%20Custom%20INI.7z)
+- Removed [OneTweak](https://www.nexusmods.com/skyrim/mods/40706/?tab=files&file_id=1000231728)
+- Removed [Anniversary Anim Pack](https://www.nexusmods.com/newvegas/mods/70158/?tab=files&file_id=1000067993)
+- Removed [Laser Weapon Iron Sights](https://www.nexusmods.com/newvegas/mods/70790/?tab=files&file_id=1000070317)
+- Removed [Laser Weapon Iron Sights](https://www.nexusmods.com/newvegas/mods/70790/?tab=files&file_id=1000078301)
+- Added [Desert Natural Weathers](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000088359)
+- Added [Famine - A Loot Rarity Mod](https://www.nexusmods.com/newvegas/mods/74985/?tab=files&file_id=1000088243)
+- Added [Food Effect Tweaks - Custom Food Healing](https://www.nexusmods.com/newvegas/mods/75103/?tab=files&file_id=1000086664)
+- Added [ISControl Enabler](https://www.nexusmods.com/newvegas/mods/75417/?tab=files&file_id=1000088224)
+- Added [WMIM - JSUE Patch.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/8b671138c7e567340a6a01ea9e3d18d1c8928015/WMIM%20-%20JSUE%20Patch.7z)
+- Added [HUD Only Explosion Shake](https://www.nexusmods.com/newvegas/mods/75064/?tab=files&file_id=1000086482)
+- Added [JohnnyGuitar NVSE](https://www.nexusmods.com/newvegas/mods/66927/?tab=files&file_id=1000088229)
+- Added [kNVSE Animation Plugin](https://www.nexusmods.com/newvegas/mods/71336/?tab=files&file_id=1000081372)
+- Added [New Vegas Mesh Improvement Mod - NVMIM](https://www.nexusmods.com/newvegas/mods/74295/?tab=files&file_id=1000085177)
 
 
 ## 1.3.1
