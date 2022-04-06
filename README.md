@@ -163,6 +163,7 @@ By default, Steam only allows one library per drive, but there is a workaround. 
 7. Open the folder that **cpu_info.exe** tells you.
 8. Copy **d3dx9_38.dll** to your Fallout New Vegas folder.
 9. Delete the folder **NVHR**.
+10. Open the **ModOrganizer.exe** executable in the Viva New Vegas installation folder to start playing.
 
 ## BEFORE YOU BEGIN PLAYING
 
