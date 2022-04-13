@@ -1,7 +1,8 @@
 # Changelog
 
-- [1.4.0](#140)
 - [Changelog](#changelog)
+  - [1.4.1](#141)
+  - [1.4.0](#140)
   - [1.3.1](#131)
   - [1.3.0](#130)
   - [1.2.12](#1212)
@@ -17,6 +18,39 @@
   - [1.2.2](#122)
   - [1.2.1](#121)
   - [1.2.0](#120)
+
+
+## 1.4.1
+
+**Build at:** `13/04/2022 01:55:07`
+
+**Info**:
+
+- Download Size change: 25,1MB (Total: 806,8MB)
+- Install Size change: 51,5MB (Total: 2,4GB)
+
+**Download Changes**:
+
+- Updated [Desert Natural Weathers](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000088832)
+- Updated [Essential DLC Enhancements Merged](https://www.nexusmods.com/newvegas/mods/73803/?tab=files&file_id=1000088663)
+- Updated [Famine - A Loot Rarity Mod](https://www.nexusmods.com/newvegas/mods/74985/?tab=files&file_id=1000089172)
+- Updated [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592/?tab=files&file_id=1000089093)
+- Updated [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592/?tab=files&file_id=1000089094)
+- Updated [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592/?tab=files&file_id=1000089104)
+- Updated [The Living Desert - Travelers Patrols Consequences Increased Population and more](https://www.nexusmods.com/newvegas/mods/64623/?tab=files&file_id=1000088491)
+- Updated [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000088677)
+- Removed [Desert Natural Weathers](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000088359)
+- Removed [Essential DLC Enhancements Merged](https://www.nexusmods.com/newvegas/mods/73803/?tab=files&file_id=1000086908)
+- Removed [Famine - A Loot Rarity Mod](https://www.nexusmods.com/newvegas/mods/74985/?tab=files&file_id=1000088243)
+- Removed [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592/?tab=files&file_id=1000088124)
+- Removed [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592/?tab=files&file_id=1000074184)
+- Removed [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592/?tab=files&file_id=1000087172)
+- Removed [The Living Desert - Travelers Patrols Consequences Increased Population and more](https://www.nexusmods.com/newvegas/mods/64623/?tab=files&file_id=1000082987)
+- Removed [Vanilla_UI_Plus_New_Vegas_8.86.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
+- Removed [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000088351)
+- Added [The Mod Configuration Menu](https://www.nexusmods.com/newvegas/mods/42507/?tab=files&file_id=105803)
+- Added [The Mod Configuration Menu](https://www.nexusmods.com/newvegas/mods/42507/?tab=files&file_id=1000001534)
+- Added [Vanilla_UI_Plus_New_Vegas_8.91.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
 
 
 ## 1.4.0
