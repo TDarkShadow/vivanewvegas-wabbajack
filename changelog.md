@@ -1,5 +1,6 @@
 # Changelog <!-- omit in toc -->
 
+- [1.4.3](#143)
 - [1.4.2](#142)
 - [1.4.1](#141)
 - [1.4.0](#140)
@@ -18,6 +19,21 @@
 - [1.2.2](#122)
 - [1.2.1](#121)
 - [1.2.0](#120)
+
+
+## 1.4.3
+
+**Build at:** `25/04/2022 01:23:37`
+
+**Info**:
+
+- Download Size change: -414B (Total: 806,8MB)
+- Install Size change: -216B (Total: 2,4GB)
+
+**Download Changes**:
+
+- Removed [Vanilla_UI_Plus_New_Vegas_8.92.93.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
+- Added [Vanilla_UI_Plus_New_Vegas_8.93.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
 
 
 ## 1.4.2
