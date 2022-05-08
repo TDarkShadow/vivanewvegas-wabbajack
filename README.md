@@ -322,9 +322,8 @@ This modlist tries to be as customizable as possible while also fixing as many b
 
 ### I have a bug / question!
 
-For installation issues, ask about it in the [Wabbajack Discord](https://discord.gg/wabbajack) Server. Usually it means some mod became unavailable or there is some other Wabbajack specific issue.
-
-For in-game issues, suggestions, or bug reports, go to the [Viva New Vegas Discord](https://discord.gg/DhX5S27) server.
+For issues, ask about it in the [Drazden and Dark's Modding Hub Discord](https://discord.gg/xQmzNASbz5) Server,
+or post an issue on the [Github repo](https://github.com/TDarkShadow/vivanewvegas-wabbajack/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc).
 
 ### I want to support your work!
 
