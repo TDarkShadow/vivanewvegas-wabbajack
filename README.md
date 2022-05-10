@@ -43,10 +43,10 @@
 * A clean **English** installation of Fallout New Vegas, and all DLCs.
   * Also known as Fallout: New Vegas Ultimate Edition.
   * **Acquired through either [GOG](https://www.gog.com/game/fallout_new_vegas_ultimate_edition/) or [Steam](https://store.steampowered.com/sub/13435/).**
-* Around 12 GB of free space.
-  * 9,5 GB for Fallout New vegas itself.
-  * 0,5 GB for the mod downloads.
-  * 1,5 GB for the modlist installation.
+* Around 12,8 GB of free space.
+  * 9,2 GB for Fallout New vegas itself.
+  * 0,8 GB for the mod downloads.
+  * 2,8 GB for the modlist installation.
 * A [Nexusmods](https://www.nexusmods.com/) account.
   * Nexus Premium is not necessary, but will help to download the modlist faster.
 
@@ -84,7 +84,7 @@ If you have modded Fallout New Vegas before, or have the game installed under `C
 
 #### GOG Galaxy
 
-1. Open **GOG Galaxy** and go to your **Owned games**.
+1. Open **GOG Galaxy** and go to your **Installed games**.
 2. Find **Fallout: New Vegas Ultimate Edition** in the list.
 3. Right-click on it and select **Manage Installation** -> **Uninstall**.
 4. Navigate to where the game was installed (`GOG Galaxy\Games` by default) and, if present, delete the **Fallout New Vegas** folder.
