@@ -1,5 +1,6 @@
 # Changelog <!-- omit in toc -->
 
+- [1.4.4](#144)
 - [1.4.3](#143)
 - [1.4.2](#142)
 - [1.4.1](#141)
@@ -19,6 +20,38 @@
 - [1.2.2](#122)
 - [1.2.1](#121)
 - [1.2.0](#120)
+
+
+## 1.4.4
+
+**Build at:** `10/05/2022 02:19:14`
+
+**Info**:
+
+- Download Size change: 40,3MB (Total: 766,4MB)
+- Install Size change: -438,4MB (Total: 2,8GB)
+
+**Download Changes**:
+
+- Updated [Desert Natural Weathers](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000091993)
+- Updated [JAM - Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666/?tab=files&file_id=1000090357)
+- Updated [FNVEdit](https://www.nexusmods.com/newvegas/mods/34703/?tab=files&file_id=1000083829)
+- Updated [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000092222)
+- Updated [JIP LN NVSE Plugin](https://www.nexusmods.com/newvegas/mods/58277/?tab=files&file_id=1000091424)
+- Updated [JohnnyGuitar NVSE](https://www.nexusmods.com/newvegas/mods/66927/?tab=files&file_id=1000092012)
+- Updated [NVTF - New Vegas Tick Fix](https://www.nexusmods.com/newvegas/mods/66537/?tab=files&file_id=1000090782)
+- Removed [nvse_6_2_5.7z](https://github.com/xNVSE/NVSE/releases/download/6.2.5/nvse_6_2_5.7z)
+- Removed [Desert Natural Weathers](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000088832)
+- Removed [JAM - Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666/?tab=files&file_id=1000087121)
+- Removed [FNVEdit](https://www.nexusmods.com/newvegas/mods/34703/?tab=files&file_id=1000057872)
+- Removed [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000088677)
+- Removed [JIP LN NVSE Plugin](https://www.nexusmods.com/newvegas/mods/58277/?tab=files&file_id=1000087938)
+- Removed [JohnnyGuitar NVSE](https://www.nexusmods.com/newvegas/mods/66927/?tab=files&file_id=1000088229)
+- Removed [NVTF - New Vegas Tick Fix](https://www.nexusmods.com/newvegas/mods/66537/?tab=files&file_id=1000086290)
+- Added [nvse_6_2_7.7z](https://github.com/xNVSE/NVSE/releases/download/6.2.7/nvse_6_2_7.7z)
+- Added [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486/?tab=files&file_id=1000068048)
+- Added [Clean Just Weapons Wheel](https://www.nexusmods.com/newvegas/mods/76357/?tab=files&file_id=1000091757)
+- Added [Consistent Glow Icons (Shadow Version)](https://www.nexusmods.com/newvegas/mods/76336/?tab=files&file_id=1000091931)
 
 
 ## 1.4.3
