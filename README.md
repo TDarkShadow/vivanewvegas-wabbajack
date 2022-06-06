@@ -228,13 +228,12 @@ fOriginalGroundHeightMS=0
 ### What steps do I have to take to run the game in an ultrawide resolution?
 
 1. Click the ![INI Editor](mo2ini.png) button at the top of MO2 and select **INI Editor**.
-2. Go to the tab **FalloutCustom.ini**.
+2. Go to the tab **FalloutPrefs.ini**.
    * Make sure you are in the FalloutCustom.ini tab and **NOT** the Custom.ini tab.
-3. Paste in the following:
+3. Search (Ctrl+F) and edit the following values:
 ```ini
-[Display]
-iSize W=3440
-iSize H=1440
+iSize W=1920
+iSize H=1080
 ```
   * Change the values to whatever resolution you are going to play in.
 4. Save and exit
