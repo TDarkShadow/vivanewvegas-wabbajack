@@ -1,5 +1,6 @@
 # Changelog <!-- omit in toc -->
 
+- [1.5.0](#150)
 - [1.4.5](#145)
 - [1.4.4](#144)
 - [1.4.3](#143)
@@ -21,6 +22,80 @@
 - [1.2.2](#122)
 - [1.2.1](#121)
 - [1.2.0](#120)
+
+## 1.5.0
+
+**Build at:** `19/08/2022 13:46:50`
+
+**Info**:
+
+- Download Size change: 121,2MB (Total: 645,2MB)
+- Install Size change: 218MB (Total: 2,6GB)
+
+**Download Changes**:
+
+- Updated [Consistent Pip-Boy Icons](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000092397)
+- Updated [Desert Natural Weathers](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000095869)
+- Updated [Famine - A Loot Rarity Mod](https://www.nexusmods.com/newvegas/mods/74985/?tab=files&file_id=1000092707)
+- Updated [Misc Gameplay Merge](https://www.nexusmods.com/newvegas/mods/73921/?tab=files&file_id=1000096749)
+- Updated [Misc Gameplay Merge](https://www.nexusmods.com/newvegas/mods/73921/?tab=files&file_id=1000095447)
+- Updated [Yukichigai Unofficial Patch - YUP](https://www.nexusmods.com/newvegas/mods/51664/?tab=files&file_id=1000095148)
+- Updated [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000097636)
+- Updated [FNV Mod Limit Fix](https://www.nexusmods.com/newvegas/mods/68714/?tab=files&file_id=1000092775)
+- Updated [JIP LN NVSE Plugin](https://www.nexusmods.com/newvegas/mods/58277/?tab=files&file_id=1000097557)
+- Updated [JohnnyGuitar NVSE](https://www.nexusmods.com/newvegas/mods/66927/?tab=files&file_id=1000097659)
+- Updated [NVTF - New Vegas Tick Fix](https://www.nexusmods.com/newvegas/mods/66537/?tab=files&file_id=1000095253)
+- Updated [Anniversary Anim Pack](https://www.nexusmods.com/newvegas/mods/70158/?tab=files&file_id=1000096618)
+- Updated [Consistent Pip-Boy Icons](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096843)
+- Updated [ISControl Enabler](https://www.nexusmods.com/newvegas/mods/75417/?tab=files&file_id=1000097157)
+- Removed [nvse_6_2_7.7z](https://github.com/xNVSE/NVSE/releases/download/6.2.7/nvse_6_2_7.7z)
+- Removed [Desert Natural Weathers](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000091993)
+- Removed [Famine - A Loot Rarity Mod](https://www.nexusmods.com/newvegas/mods/74985/?tab=files&file_id=1000089172)
+- Removed [ISControl Enabler](https://www.nexusmods.com/newvegas/mods/75417/?tab=files&file_id=1000088224)
+- Removed [JIP Improved Recipe Menu](https://www.nexusmods.com/newvegas/mods/59638/?tab=files&file_id=1000051277)
+- Removed [WMIM - JSUE Patch.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/8b671138c7e567340a6a01ea9e3d18d1c8928015/WMIM%20-%20JSUE%20Patch.7z)
+- Removed [Misc Gameplay Merge](https://www.nexusmods.com/newvegas/mods/73921/?tab=files&file_id=1000088355)
+- Removed [Misc Gameplay Merge](https://www.nexusmods.com/newvegas/mods/73921/?tab=files&file_id=1000082118)
+- Removed [Mojave Raiders Tweaks.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/8b671138c7e567340a6a01ea9e3d18d1c8928015/Mojave%20Raiders%20Tweaks.7z)
+- Removed [Real Recoil Tweaks.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/8b671138c7e567340a6a01ea9e3d18d1c8928015/Real%20Recoil%20Tweaks.7z)
+- Removed [Simple DLC Delay](https://www.nexusmods.com/newvegas/mods/62779/?tab=files&file_id=1000052154)
+- Removed [Uncut Wasteland](https://www.nexusmods.com/newvegas/mods/56625/?tab=files&file_id=1000085542)
+- Removed [Uncut Wasteland](https://www.nexusmods.com/newvegas/mods/56625/?tab=files&file_id=1000035158)
+- Removed [Uncut Wasteland Tweaks.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/1a9d0e0aa16d5abf6130ddf250c4aefb85b0a7cf/Uncut%20Wasteland%20Tweaks.7z)
+- Removed [Vanilla Hud Cleaned](https://www.nexusmods.com/newvegas/mods/70001/?tab=files&file_id=1000068281)
+- Removed [VNV LODGenOutput.7z](https://authored-files.wabbajack.org/VNV LODGenOutput.7z_6e3d3854-9f64-43b6-ab4b-bfc7c89997a2)
+- Removed [Vanilla_UI_Plus_New_Vegas_8.95.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
+- Removed [Weapon Mesh Improvement Mod](https://www.nexusmods.com/newvegas/mods/65052/?tab=files&file_id=1000087716)
+- Removed [WMIM ESP Replacer.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/8b671138c7e567340a6a01ea9e3d18d1c8928015/WMIM%20ESP%20Replacer.7z)
+- Removed [Yukichigai Unofficial Patch - YUP](https://www.nexusmods.com/newvegas/mods/51664/?tab=files&file_id=1000085218)
+- Removed [Just Assorted Mods Custom INI.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/772d653d5119998d2869e173916bb755f6286890/Just%20Assorted%20Mods%20Custom%20INI.7z)
+- Removed [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000092222)
+- Removed [FNV Mod Limit Fix](https://www.nexusmods.com/newvegas/mods/68714/?tab=files&file_id=1000061401)
+- Removed [HUD Only Explosion Shake](https://www.nexusmods.com/newvegas/mods/75064/?tab=files&file_id=1000086482)
+- Removed [JIP LN NVSE Plugin](https://www.nexusmods.com/newvegas/mods/58277/?tab=files&file_id=1000091424)
+- Removed [JIP LN Overhauls INI.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/106649ea65e4052429465098a9fb2cd47dbbd652/JIP%20LN%20Overhauls%20INI.7z)
+- Removed [JohnnyGuitar NVSE](https://www.nexusmods.com/newvegas/mods/66927/?tab=files&file_id=1000092012)
+- Removed [lStewieAl's Tweaks Custom INI.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/149b740024760c1d5faf28b61351f11e1c578d5d/lStewieAl's%20Tweaks%20Custom%20INI.7z)
+- Removed [NVTF - New Vegas Tick Fix](https://www.nexusmods.com/newvegas/mods/66537/?tab=files&file_id=1000090782)
+- Removed [Anniversary Anim Pack](https://www.nexusmods.com/newvegas/mods/70158/?tab=files&file_id=1000075892)
+- Removed [Consistent Pip-Boy Icons](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000086193)
+- Removed [Vanilla Hud Cleaned](https://www.nexusmods.com/newvegas/mods/70001/?tab=files&file_id=1000086836)
+- Removed [Consistent Glow Icons (Shadow Version)](https://www.nexusmods.com/newvegas/mods/76336/?tab=files&file_id=1000091931)
+- Removed [Stewie's Tweaks Overhauls INI.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/149b740024760c1d5faf28b61351f11e1c578d5d/Stewie's%20Tweaks%20Overhauls%20INI.7z)
+- Added [nvse_6_2_8.7z](https://github.com/xNVSE/NVSE/releases/download/6.2.8/nvse_6_2_8.7z)
+- Added [Contextual HUD](https://www.nexusmods.com/newvegas/mods/77631/?tab=files&file_id=1000096986)
+- Added [Unofficial_DarNified_UI_Update_-_FNV.1.zip](https://www.moddb.com/downloads/start/236022?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
+- Added [Delay DLC Redux](https://www.nexusmods.com/newvegas/mods/75851/?tab=files&file_id=1000096621)
+- Added [skinned mesh improvement mod - smim - creatures](https://www.nexusmods.com/newvegas/mods/77477/?tab=files&file_id=1000096396)
+- Added [Vanilla Iron Sights Realligned](https://www.nexusmods.com/newvegas/mods/77672/?tab=files&file_id=1000096609)
+- Added [Climate Control NVSE](https://www.nexusmods.com/newvegas/mods/77205/?tab=files&file_id=1000094799)
+- Added [Contextual HUD](https://www.nexusmods.com/newvegas/mods/77631/?tab=files&file_id=1000097050)
+- Added [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963/?tab=files&file_id=1000097656)
+- Added [High Resolution Bloom NVSE](https://www.nexusmods.com/newvegas/mods/77933/?tab=files&file_id=1000097586)
+- Added [High Resolution Screens](https://www.nexusmods.com/newvegas/mods/77989/?tab=files&file_id=1000097728)
+- Added [MoonlightNVSE](https://www.nexusmods.com/newvegas/mods/77683/?tab=files&file_id=1000097438)
+- Added [Pip-Boy Shading Fix NVSE](https://www.nexusmods.com/newvegas/mods/77957/?tab=files&file_id=1000097622)
+- Added [Elijah Voice Audio Files Fix](https://www.nexusmods.com/newvegas/mods/73526/?tab=files&file_id=1000097831)
 
 
 ## 1.4.5

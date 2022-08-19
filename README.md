@@ -58,6 +58,8 @@ These steps are only needed if you install this Modlist for the first time. If y
 
 You likely already have this installed, but in case you haven't. This package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
+You can also [download an All-in-One package here](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).
+
 ### Set the Game language to English
 
 This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and support will not be given to people with a non-English game.
