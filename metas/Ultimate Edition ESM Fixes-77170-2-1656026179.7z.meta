@@ -1,0 +1,19 @@
+[General]
+gameName=FalloutNV
+modID=77170
+fileID=1000094715
+url=
+name=Ultimate Edition ESM Fixes
+description=exe installer as redistributing vanilla assets is illegal :pepeglare:\n<br /><br />maybe perhaps now works with 4gb patched gog english
+modName=Ultimate Edition ESM Fixes
+version=2.0.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=100
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true
