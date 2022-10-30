@@ -1,0 +1,19 @@
+[General]
+gameName=FalloutNV
+modID=69779
+fileID=1000099781
+url=
+name=NVHR
+description=Extract the contents into your New Vegas root folder. If a black Windows terminal spawns when starting New Vegas then this is loading correctly. It should also generate a log file called hr.log. INSTALL MANUALLY.
+modName=New Vegas Heap Replacer
+version=4.2.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=115
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true
