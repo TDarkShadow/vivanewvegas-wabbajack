@@ -4,6 +4,9 @@
 
  Viva New Vegas is a comprehensive modding guide for Fallout New Vegas that will carefully walk you through how to install all the mods you will need for a perfectly stable, smooth, and most importantly, enjoyable experience. The guide is highly accessible for everyone, no matter your modding experience. You can find the (manual) guide at <https://vivanewvegas.github.io>. This modlist functions as a one-click install to have the guide installed and improves Fallout New Vegas with increased performance, many bugfixes, some gameplay improvements, and quality of life extras.
 
+ NOTE: This isn't a full port because BSA Decompressor is not working fully automatic yet by Wabbajack and it's a step I don't recommend for beginners, nor those who just want an optimized game with 1-click.
+ However for those that want to try, it's included in the Tools subfolder.
+
 ## TABLE OF CONTENTS <!-- omit in toc -->
 
 - [REQUIREMENTS](#requirements)
