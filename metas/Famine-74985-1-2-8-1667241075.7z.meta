@@ -16,4 +16,4 @@ userData="@Variant(\0\0\0\b\0\0\0\x1\0\0\0\x16\0\x64\0o\0w\0n\0l\0o\0\x61\0\x64\
 installed=true
 uninstalled=false
 paused=false
-removed=false
+removed=true
