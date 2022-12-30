@@ -1,5 +1,9 @@
 # Viva New Vegas - Wabbajack port <!-- omit in toc -->
 
+> **Warning**  
+> This modlist has been archived and no longer recieves any updates, nor has support.  
+> [You can still try to install it](https://github.com/TDarkShadow/vivanewvegas-wabbajack/releases/latest) but inevitably will fail due to missing mods, mod updates, or other issues.
+
 ## MODLIST SUMMARY <!-- omit in toc -->
 
  Viva New Vegas is a comprehensive modding guide for Fallout New Vegas that will carefully walk you through how to install all the mods you will need for a perfectly stable, smooth, and most importantly, enjoyable experience. The guide is highly accessible for everyone, no matter your modding experience. You can find the (manual) guide at <https://vivanewvegas.github.io>. This modlist functions as a one-click install to have the guide installed and improves Fallout New Vegas with increased performance, many bugfixes, some gameplay improvements, and quality of life extras.
